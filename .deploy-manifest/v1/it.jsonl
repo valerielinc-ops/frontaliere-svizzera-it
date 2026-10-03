@@ -2428,7 +2428,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-giubiasco/","hash":"f8ec79a9d3f80ed3c69a291b90855a44165d81eb067386ff3c392d736686daa1"}
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-liestal/","hash":"b94ba8f3e9a73fd790a50adab113b9f797792d3159c264cba3f8181c62770842"}
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-lodrino/","hash":"9bf12f36b63019aadd969f9b15456384035bff0f3a276a897caed2257a9f1df4"}
-{"path":"cerca-lavoro-svizzera/ricerca-ambito-lugano/","hash":"c80b85efc14410a9b2dec35626225e12604bdb506be1bd8cd2032ca71a7f41c9"}
+{"path":"cerca-lavoro-svizzera/ricerca-ambito-lugano/","hash":"24ffca1e08e33369735474815d86b6341415320b8b5747a787721fb7d3c98ecf"}
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-manno/","hash":"7bfd23437bbca8b68ba18523c7c67225c9f59757f525315b467e6dc7ff49d2cf"}
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-mendrisio/","hash":"3f89c526c13a2b5f0e9c5c5ebdeffa571a1eeeed93b56806440c254dc5123cba"}
 {"path":"cerca-lavoro-svizzera/ricerca-ambito-pfaffikon-zh/","hash":"c45c5696b1817922da7ca33f8ee34c10899c0dbd650a0a90febd1919dda83f64"}
@@ -4695,7 +4695,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-arnold-wangen-an-der-aare/","hash":"50ef72efc3c85ac7af2e1ecce7d4c2d38eccb401e98bd912c2ed1706214979d5"}
 {"path":"cerca-lavoro-svizzera/ricerca-arpels-geneva/","hash":"8f91708f1c5e7321ec70b8de215b0979255d494ad6c169dd5431f495aead9bfe"}
 {"path":"cerca-lavoro-svizzera/ricerca-arpels-meyrin/","hash":"c30045cbaa0c0110f38ae3cb0686f6fae59bb1a1aa99b7e798a4f057f54e3758"}
-{"path":"cerca-lavoro-svizzera/ricerca-arredamenti-chiasso/","hash":"4e1d9ca5bafcc8974b3f004a42104803a728eac818e913c76f753a37b03fbe62"}
+{"path":"cerca-lavoro-svizzera/ricerca-arredamenti-chiasso/","hash":"ae07aa5984e942cbf7394879e36a70f8e43faa93fc0ae52c22f8a64def07c5eb"}
 {"path":"cerca-lavoro-svizzera/ricerca-arricchisci-aarburg/","hash":"f4372294163b8b064af8847e9c73ec090868e6550dc4d64738c04fb512a86085"}
 {"path":"cerca-lavoro-svizzera/ricerca-arricchisci-niederbipp/","hash":"6038c73945b1acc1c9e9992679908fa460f89e8ca7c9bde7a62f77abf6dc02b1"}
 {"path":"cerca-lavoro-svizzera/ricerca-arriva-sarnen-obwalden/","hash":"5e007e75a7163a60fc017443983250b2da9e6e14f992b399e1c52d2b0efb6d6b"}
@@ -8241,9 +8241,9 @@
 {"path":"cerca-lavoro-svizzera/ricerca-autozug-chur/","hash":"d4023b4596ae97d1a6d18ad3ee45ab0cc5867407e992888b70efea11242abbc4"}
 {"path":"cerca-lavoro-svizzera/ricerca-autunnale-zurich/","hash":"ff9f6e2bd90d9631806f7d85fdfb9d092a4bbd5f96cc92770095444399992258"}
 {"path":"cerca-lavoro-svizzera/ricerca-autunno-schlieren/","hash":"d244bcb9a8a022033602b6e632fe662ed8e24e450d28060daddbba122e924bd4"}
-{"path":"cerca-lavoro-svizzera/ricerca-auxiliario-di-salute-crs-etoy/","hash":"950d494c6dd2820274db0a2d143d995de9b2251a68b96a00aa0aa24973dce9c4"}
+{"path":"cerca-lavoro-svizzera/ricerca-auxiliario-di-salute-crs-etoy/","hash":"003e8c0aa370945353c79a406eea71f4198237efaa03d23b3941fff37b674d29"}
 {"path":"cerca-lavoro-svizzera/ricerca-auxiliario-di-salute-crs-tertianum/","hash":"58af54c4685fc63af8c1199cf4ffd540162d8eba95d7e0db2c2b8a61b910e3b3"}
-{"path":"cerca-lavoro-svizzera/ricerca-auxiliario-di-salute-crs/","hash":"af31c994aba284a95a3da18fb16d0083bff7d9abe28f7c4e3902fbc481de6db5"}
+{"path":"cerca-lavoro-svizzera/ricerca-auxiliario-di-salute-crs/","hash":"3f25ead6eb935288a04ea4315a82177522da74513f98da3406288fd9b2e25828"}
 {"path":"cerca-lavoro-svizzera/ricerca-avaloq-bioggio/","hash":"7f5bfbc8f1b97f5c3912e1f96540c4f7971223009b9115632bebe80b84711de9"}
 {"path":"cerca-lavoro-svizzera/ricerca-avaloq-mendrisio/","hash":"086f992d91c2481971a375aa22849c3594509ad172717246a489d1cace7b3940"}
 {"path":"cerca-lavoro-svizzera/ricerca-avaloq-zurich/","hash":"1cc0c033bb94d7d73ef42c491231480970f42ea0ede2906d1ab990c1bf1a8daa"}
@@ -8499,7 +8499,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-back-sion/","hash":"98a5ff2f9d1da82484f7cf30aac3626d818d0d06414a67193e68b87bc217d311"}
 {"path":"cerca-lavoro-svizzera/ricerca-back/","hash":"bd3c10836a8449502a92deb08b0d81f8fc95c4abe676ff126ead3d1b19bd74b6"}
 {"path":"cerca-lavoro-svizzera/ricerca-backend-berne-berne/","hash":"8f42859a527664e9dfd5fc51248b569aa89e40b48b1cca726695f43b806be817"}
-{"path":"cerca-lavoro-svizzera/ricerca-backend-chiasso/","hash":"f185a1367f6b93df718eb43eb7bb7d2d5399739a842fa44afd268373d849ffe1"}
+{"path":"cerca-lavoro-svizzera/ricerca-backend-chiasso/","hash":"d6e08753c5807b49edd679f635dd1d5e7aecf144dc16192ba9d1f63478e03502"}
 {"path":"cerca-lavoro-svizzera/ricerca-backend-ingegnere-tether-operations/","hash":"100b984a5069e509fdf3e243bc56974a48435f05f57b5c4b8ea0cb4d16ba2700"}
 {"path":"cerca-lavoro-svizzera/ricerca-backend-ingegnere-zurich-zurich/","hash":"5b77069b3ff4a1cefa45bfec4b11412ece31987ce96fcdd97de12af8f4ce9e14"}
 {"path":"cerca-lavoro-svizzera/ricerca-backend-ingegnere/","hash":"b9531aecf693a1d64e4fba1372d0c2e83bed96519ba20c0612f38704ed81f05c"}
@@ -8608,7 +8608,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-banca-chur/","hash":"78598c8b4fdf38f88c1e209d96c58be18303e123cdb19b6b6dbbe66386235c48"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-geneva/","hash":"1377b5e0c4823a2577dff25e18fae7c9912c0f29a8b63c5cbd1251522f60c382"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-genf/","hash":"0d5de1f703d80ac30ef69ddbc2fc4aba6653fb9ed974948d41f144ed29260eda"}
-{"path":"cerca-lavoro-svizzera/ricerca-banca-gravesano-ticino/","hash":"3c31796f14fbff36f83ba4daf1f02883163083af9f8dbda9748975d648ebdecc"}
+{"path":"cerca-lavoro-svizzera/ricerca-banca-gravesano-ticino/","hash":"3b7ea5dc131806cfc11b7d62f2ce336eb08400ab3373938d806904720d76b1cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-kaufmann-a-scuol-inizio-del-2027-scuol/","hash":"8334deada1d1ce6f1a07c92e81a68d442ec48447157cac25c22d012c97afc3cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-kaufmann-a-scuol-inizio-del-2027/","hash":"37158eb1d30340348334949f436df4eda43c3cde43c8e7baadb9beaf22439475"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-langenthal/","hash":"4dd663680052d31b016f1c64b51efe27b7edb0a5e303fdb20f1bb0690da581c5"}
@@ -8619,7 +8619,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-banca-solothurn/","hash":"88031293811ed77eac640fb6d5a5a6942d1f2d557ff1e5b6f1401da7d9cf24e4"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-st-gallen/","hash":"ff9aa46b873724d4d8d5bfad1bcbb4ddc7f1d21dc20f2e16fb5914f1691213e9"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-thun/","hash":"5e697868834ea81a308cba16459d43f6651f715e46b482f19b2de978a42c2301"}
-{"path":"cerca-lavoro-svizzera/ricerca-banca-ticino/","hash":"2c06fc213885cd32f1a25db99893c66d80dab921fa788aa67231c43cf5f3b449"}
+{"path":"cerca-lavoro-svizzera/ricerca-banca-ticino/","hash":"3dda09d8c09e23658f45d879e08eaf88c7f54899264cd08249de0c6236f19b5c"}
 {"path":"cerca-lavoro-svizzera/ricerca-banca-zurich/","hash":"42d44ceef66416cd17bc8cf39865a8d3c41613933c120ec07a5cb4dcb875120f"}
 {"path":"cerca-lavoro-svizzera/ricerca-bancadati-lugano/","hash":"da33aff0c962977026db436ad21a835149fd688600c3c74d302d5af6408cf205"}
 {"path":"cerca-lavoro-svizzera/ricerca-bancaire-lausanne/","hash":"5bada0efc136a52e21354005d052b09a463dc0062e11d55062b1d27d225d22a1"}
@@ -11810,7 +11810,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-bellinzona/","hash":"650a931df8f5ec5e0f5bbd5a8438c467d4b88dd20a8c4f94d7325e6767390d56"}
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-chur/","hash":"87b95b7fa9f0862e45899f7cad9fe2dc974b1135c07515809caec44cb2fb83b2"}
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-langenthal/","hash":"d4e8d1ed2729827e54f157f751da4932786919873fde382a5d850e28573050a7"}
-{"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-lugano/","hash":"bce818562ae4805448fa5852919373dbfa0ded1ddc9bd9c3fdced5a163fb49bd"}
+{"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-lugano/","hash":"eddcaa43818b118cc54dc73c7dac4f7063cc427d5956b5870fa6de2c74ff5475"}
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-luzern/","hash":"fbaa82e221c50a1450e977a32c1d960f792fd4e42e918747abd85541a0aebdd6"}
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-opfikon/","hash":"f3e7dd4d39569f0fd65eba9f7a78b126d9b67e7b368a9773ec95f47d4f85a482"}
 {"path":"cerca-lavoro-svizzera/ricerca-cerchiamo-schaan/","hash":"0458827023c6d963ea46e29e71307d2a6e2c7ecc67d53ead7cff74210d32b6a7"}
@@ -12205,7 +12205,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-lausanne/","hash":"591b0fcdb8b6b4174116970ab70f63f237994ec005df31c6f6a06976d6e4037f"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-liestal/","hash":"99e2b19027ce9fb9fd12cdc36be5a800b5876701c17acb9dad030ea2298d4a7c"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-locarno/","hash":"d9ae142bf0dfcd0ed8847d059bf18e43aaa1a8518bd577dc1ba6f2e72dfbff48"}
-{"path":"cerca-lavoro-svizzera/ricerca-chirurgia-lugano/","hash":"8c3222554190d21f1b9a580a22a5f67e4f21f0f39265ed382e84c573ded8ab70"}
+{"path":"cerca-lavoro-svizzera/ricerca-chirurgia-lugano/","hash":"58b96481bb5d8f1639d6a8d739af16e41479e434a678710a08fa93eda8f1462f"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-luzern/","hash":"c3d3e140319fa2b8647b8feb3046b70ad72dc455bd4e525d16f99b5a9108e081"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-munsterlingen/","hash":"dd329ad551d3f27daa721c618f7120f07f4302a4d3d84efc7b33cd2d9ccdd303"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-nottwil/","hash":"67814fe00db1a322e313affb33ab7c3d3ab5d3811b620ce4c6c67e1d9784b3e8"}
@@ -12239,7 +12239,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-st-moritz/","hash":"4305d0c5cb74bcb86686c07f641f96938d612043956b7b4616e1eac1c906c054"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-sursee/","hash":"e16c30e9da2592637c23d09d31f2329cbeb268d58404c845ec52864c190ca99c"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-thun/","hash":"0c224c8fd0c1251ad742d1f4442acac8f6e6cd0dba555acc3a71a5ce57c0409b"}
-{"path":"cerca-lavoro-svizzera/ricerca-chirurgia-ticino/","hash":"996a6906cfa7e1d6ad307f164ce498e8b9b3d803e712d675fcc0d5a497bc3224"}
+{"path":"cerca-lavoro-svizzera/ricerca-chirurgia-ticino/","hash":"f35d8f15d30c0c920fb02b439224292c798130fda9c28ac359a2b9de81429947"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-unterseen/","hash":"8410043c8bb25b122283a34247c004398b91e1153f06db6fd39546655e792837"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-uster/","hash":"1eb57b6f4974fa9bde0f28b50fe72ec4d58ce9f6fd8d3e64969ea6768844b7bc"}
 {"path":"cerca-lavoro-svizzera/ricerca-chirurgia-vevey/","hash":"eaaed1c71961ccbf19eeb2f2fd189ac464e46b19386b916f55f493b64c29d8a7"}
@@ -12558,7 +12558,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-lausanne/","hash":"5dfc828203deed5095973e6ecf8a14a10e071a4bf8f9ba79d387a818cd140938"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-le-noirmont/","hash":"1562a9fb76327f2e7d184e6240408379e19043e01bdf599fa55fd19d1112d718"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-liestal/","hash":"a4cb763070d89998c11b748b2e21db35b8946a25626b16d7f44cacdeb322f943"}
-{"path":"cerca-lavoro-svizzera/ricerca-clinica-lugano/","hash":"81b66fc4945301157d4595f264a268a4c575a80d8ee30b1d687f2c9be34aa313"}
+{"path":"cerca-lavoro-svizzera/ricerca-clinica-lugano/","hash":"0cbfd9fb41eace56ce4044af018ba4aa7f03ea08872c9fd0dcf43dc59fb3058f"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-luzern/","hash":"3117d7e05b8a3ec9fe45a727b5f8f531e4e789c965a93c86a549bc17126c8cec"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-mannedorf/","hash":"389874e771962e16eb84aa27b95e529373a87bd1e07837e6722a6e8abfaf7d5c"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-marsens/","hash":"33780724eb78d34320af7c09cee0583247f0107bcfd759756cde09905684af42"}
@@ -12566,7 +12566,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-meiringen/","hash":"0d29ade9c167077b55e43f6f796b816eeae2342cc7106e38dae4f33bf3280892"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-meyrin/","hash":"0d31175482d9f4a8eb8507e5c70e3c4a740d1f28ae9b3a9400ec875095609f58"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-moncucco-gruppo-ospedaliero-moncucco/","hash":"7a6652ba87eeebe02e37e32cecf212c5be8b8178609d2728004b6f3475c1ce57"}
-{"path":"cerca-lavoro-svizzera/ricerca-clinica-moncucco-lugano/","hash":"719cd6addbfef9ea4ba459757bd44e98ac019901a391a48331f85978c8f49d2a"}
+{"path":"cerca-lavoro-svizzera/ricerca-clinica-moncucco-lugano/","hash":"333dd1f6e5ed3ccb52b9c79b660ad4e0b291d3b5ec7a99c003284ea0b3a4e305"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-moncucco/","hash":"763ffa0e9ea79559e4315a7ca4d9739d2e5493a52b7671dd978c445b9921dae4"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-monthey/","hash":"7ec8c819e8c6bb3b149ab70c26635b2eedd3e6fd421bd2660dade67c010945ee"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-morges/","hash":"439953b45b2e2684709afbf652e76cf9dada13d1afefaf235cbe8115d10ba4a6"}
@@ -12605,7 +12605,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-sursee/","hash":"d9848d696957b4105852cc8fea52e9685fde32da16a13a8f28ecd227253b8a80"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-thonex/","hash":"5865a4887d224fd003d4463e694fbab5b36c1c3e8f2c3391bca54333e93e9885"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-thun/","hash":"29ba810a26dabfd676407f1ff12f35b6dc26bfb9887063c93e31147b8a4df01c"}
-{"path":"cerca-lavoro-svizzera/ricerca-clinica-ticino/","hash":"ba790f535adfcfb0bfaba25f9e0eb0dd64e60487e4b8e92d1af5aa42c90e9df3"}
+{"path":"cerca-lavoro-svizzera/ricerca-clinica-ticino/","hash":"4a10deb3f9b2328e386e35067306ba4171228a2209ac04b754e0a3d9d35961ee"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-unterageri/","hash":"220ace43b5c59e9893ff54684e9cd917c23e9fdff73ac2292199f79aabae3773"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-unterseen/","hash":"006090a65d10b6b28befaf660041d4cc566a450942514e1f3ef30b7101b7177f"}
 {"path":"cerca-lavoro-svizzera/ricerca-clinica-uster/","hash":"051b341355dd7579603a0899e6455371e550b36ef977e877bdf434f9b892edad"}
@@ -14695,7 +14695,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-consiglio-martigny/","hash":"13fdd4dde945cf378c6dc76221d510fd645f5ca9e6f36a13700387c7bb6e92b2"}
 {"path":"cerca-lavoro-svizzera/ricerca-consiglio-rennaz/","hash":"b31c10771d9a0e73107026bf34319aba379d47186b8ccfcfd6e5c3f1bb60ca91"}
 {"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-luganese-axa/","hash":"79026638582142e744cbcb4b577ec4b1445aa22420ac4f49917d1c9d1427b8b6"}
-{"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-luganese-lugano/","hash":"44678b5492b5010111a94aad312e3e7b275f7ab1e2c60c78f773bad8a5333204"}
+{"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-luganese-lugano/","hash":"23b5a3f998881a354acc1f1f9d144d88abdd3a07d861e49e3269bbed731473cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-luganese/","hash":"2c507cb0d3dbc66a5fad1913a62bb3c19e518cdfb0e46920924809e13489e47b"}
 {"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-mendrisiotto-axa/","hash":"3ce1c8a541d4e4cc0b683d9ca18b0adfd535cf105413618e66dd7d9e96a4f50a"}
 {"path":"cerca-lavoro-svizzera/ricerca-console-assicuravo-per-il-mendrisiotto-chiasso/","hash":"7cff4f9a1a901cb535d71bfce07cc946008bd0bbaea972aa4f359f627a314de5"}
@@ -16108,7 +16108,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-di-business-manager-h-f-80/","hash":"65162e955bf4847833e1930ddeb3f79c036749cc004cd5c97bd1365c1d643edd"}
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-lausanne/","hash":"c9dec80ae8b0686bc6487ffb806aff49ac58bc9d03f80e3e0b866bf648422cb2"}
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-lenzburg/","hash":"32c8bda459a18b938373b852192c95d50f5b45c30f2e0ea92550a50c61a93643"}
-{"path":"cerca-lavoro-svizzera/ricerca-contratti-lugano-ticino/","hash":"8cacd336255a1480fcc9ad7427bc3be4d095f52bfeb040f22a6b84cf1b93ce86"}
+{"path":"cerca-lavoro-svizzera/ricerca-contratti-lugano-ticino/","hash":"71a6f1781817f099813ed86fcf97682a531fcaad0360041f86630a8aac10b43d"}
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-martigny/","hash":"3f1234b748fc9d9ac83f4aa680a16c9fb21509f9260c70400687818690be6349"}
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-munchenstein/","hash":"d05936576fecfcb8effdd62dfcd8e679a63a60ef85ee4e48802fea1714e000fa"}
 {"path":"cerca-lavoro-svizzera/ricerca-contratti-sion/","hash":"f3582b2567cb1bc1023bdddf948bf213f26b01340687df8098d50e54cc8a3ca2"}
@@ -16163,7 +16163,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-contratto-wil/","hash":"7e014637f6f593c348fb2d17764892d4682f616bbdc60f43a66adeb12325bb5e"}
 {"path":"cerca-lavoro-svizzera/ricerca-contrattuali-bussnang/","hash":"d8549397103fff5bc65ab284c35d2bf739fa5ff5213d53429ee437b85823670a"}
 {"path":"cerca-lavoro-svizzera/ricerca-contrattuali-martigny/","hash":"d4a518f3275076bc02ed53e3f74388730f7362f504c71bf82d13d6b82b442a93"}
-{"path":"cerca-lavoro-svizzera/ricerca-contrattuali-ticino/","hash":"c0ff1c348d324502be589c1743bda3eecb24888983c82d8a2c3acad7bb63e9aa"}
+{"path":"cerca-lavoro-svizzera/ricerca-contrattuali-ticino/","hash":"00c55e35426a9452c225cba40b8245fbe46d23bbbed35ed200e6bd93a822be31"}
 {"path":"cerca-lavoro-svizzera/ricerca-contremaitre-voies-ferrees-f-m-d-allaman/","hash":"ee2b64644e6a41d65570c14d1d89455f0c8b0b69360b5edb7d5ae4d2c6518e17"}
 {"path":"cerca-lavoro-svizzera/ricerca-contremaitre-voies-ferrees-f-m-d-ffs-officine-ferrovie-federali/","hash":"e7120a4fe903f33920326881bf1c868b808c57ed4a4a11db92dce5f602ec903e"}
 {"path":"cerca-lavoro-svizzera/ricerca-contremaitre-voies-ferrees-f-m-d/","hash":"4d5da6c67bcb03efb3c59aaf1b0ab4eec87304cf223ce2aa0542534188f66bd9"}
@@ -17229,7 +17229,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-costi-zofingen/","hash":"66f5fe99d83dee1d21b9eb6e7cf0dafb533a83dddbcee8f5e66b7e55643b6e58"}
 {"path":"cerca-lavoro-svizzera/ricerca-costi-zurich/","hash":"b2e0cdd5076efabb1e529267a3996b5337c6d2a56ade8c4bc6d9dd47fbf989dd"}
 {"path":"cerca-lavoro-svizzera/ricerca-costituira-mendrisio/","hash":"cb5255f2cdc8b1c76a90b80330a62c62e41ebaa70feb989133b4fc281f0ca7f6"}
-{"path":"cerca-lavoro-svizzera/ricerca-costituisce-lugano/","hash":"7b57b25087bb8d424bd6c8e77d02cd8066a3582a09350180ad3ef39e3668c675"}
+{"path":"cerca-lavoro-svizzera/ricerca-costituisce-lugano/","hash":"5c625c882b0bbec376024ba0ca56cce47fa4669dca06aaa9ba3ed06097695006"}
 {"path":"cerca-lavoro-svizzera/ricerca-costituzionale-st-gallen/","hash":"2a5eacec7faf910b5dfb1539fe2f5428e6540a4de255fa547fee405522fa3689"}
 {"path":"cerca-lavoro-svizzera/ricerca-costo-bulle/","hash":"06fc22a566023eade6e02de8a69065a324fb3af64a98a7f7abf43147ffbfe7e0"}
 {"path":"cerca-lavoro-svizzera/ricerca-costo-st-gallen/","hash":"622080b37ac9c50bf8b6d853107603f02a869af18150790c0ea0aee8faf0f682"}
@@ -18096,7 +18096,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-langenthal/","hash":"4ad9443ee2ed04b4adf173305fae1275b1ee7f6be410df8021460d1d18f40bc8"}
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-lausanne/","hash":"1cf6f8ee6285fd5fcff3a2aa1f48df7528d07d4348f8e24496e2479dc92d2da2"}
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-locarno/","hash":"9c92d8fb3fdc9186c8f635f2b5831b5fa31eddc4ce071db5eb5c17bb4233db70"}
-{"path":"cerca-lavoro-svizzera/ricerca-dalla-lugano/","hash":"d10a7a2cb346baf2a9275b5539f4d10a4f3651c4da02ac22eb04dc366a43e6af"}
+{"path":"cerca-lavoro-svizzera/ricerca-dalla-lugano/","hash":"9053818b4a7047cc81662cfbad210f050550a74223225fdcd265a76d2c6d86e4"}
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-mendrisio/","hash":"ef95c820a6dbddb96c3177ba88f8012a6ceb5cc5845f7c1a6be29167620003e2"}
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-novaggio/","hash":"c88e67f4e9416a12e904984f2fc117a5a0d8d3a3544eb663bf1c8133167d7423"}
 {"path":"cerca-lavoro-svizzera/ricerca-dalla-oensingen/","hash":"9e2d30ce0e94f4adada102c23d19ae1d0df1e5369d82c610233e3a1a0150138d"}
@@ -18730,7 +18730,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-deux-rennaz/","hash":"fc64dff89e355cfc552c42d711b1104129400108edeae1807915f06b1bd15623"}
 {"path":"cerca-lavoro-svizzera/ricerca-deve-bern/","hash":"c59cca512854f6b1efba886b54027a25051afa12902fdc746fb641180bcdd695"}
 {"path":"cerca-lavoro-svizzera/ricerca-deve-ticino/","hash":"feb3baf684be54a90a374a15651d94551f52692cd9941d77f4debf0656752f60"}
-{"path":"cerca-lavoro-svizzera/ricerca-developer-chiasso/","hash":"8bb9ad932e818ab30e906b47130c9d9765846c17fc5fc1752ea86fadf6a804ad"}
+{"path":"cerca-lavoro-svizzera/ricerca-developer-chiasso/","hash":"c7431e3bff7cfb36115bacf56fcf53111fd13ff64913fe82cbeec13b4b683104"}
 {"path":"cerca-lavoro-svizzera/ricerca-developer-lausanne/","hash":"58066cb0a91106e5969cf5ad72f5584bd71cf0c364a24f15bdf8fb66392e73cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-developer-lugano/","hash":"6e3cf1fff8fbf125b7b96f61863c01a028e14888b5a2cb291c04123952ada881"}
 {"path":"cerca-lavoro-svizzera/ricerca-developer-schaffhausen/","hash":"e4513b33ff2072e5d4d8b829e08429a29f8bb33909b540a884623cea76be23b8"}
@@ -18746,7 +18746,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-devops-basel/","hash":"b43f71ec3105fd91ddc63903bb6066db576815b4b0acd4d6f1b2dc9135f584af"}
 {"path":"cerca-lavoro-svizzera/ricerca-devops-bern/","hash":"8297f3dc87b313e35bdc00f6c2a5220dad5a9b2f40dce4ff624994bff4d0a0b6"}
 {"path":"cerca-lavoro-svizzera/ricerca-devops-bubendorf/","hash":"65bcdca6af5dfb5e022d5c93cde646ccc4f4850a1ff90e98e39a86f3c544a28d"}
-{"path":"cerca-lavoro-svizzera/ricerca-devops-chiasso/","hash":"8560495ad66253856f4ed11e49c2730b8dd00f810ac063aa2c49f86452dfb2c5"}
+{"path":"cerca-lavoro-svizzera/ricerca-devops-chiasso/","hash":"4d86a0ca7c30212bc3537d9cbc00627b22aab9615893850b8cfda24148ba84e4"}
 {"path":"cerca-lavoro-svizzera/ricerca-devops-engineer-h-f-x-lausanne/","hash":"c5b5855c42c4a5cc052c99ec60d20fbb41c27d88798befa86779eca0d3f63d81"}
 {"path":"cerca-lavoro-svizzera/ricerca-devops-engineer-h-f-x-vaudoise-assurances/","hash":"1a834bf60ec22ab99c22754590b6f365e023057e8f1032b1a8b62a5ede125c8d"}
 {"path":"cerca-lavoro-svizzera/ricerca-devops-engineer-h-f-x/","hash":"d6fe411c8a6aabcd5e98312bb33ccba6e588d4ed75069fd98f4a20d4b98e4db4"}
@@ -18917,7 +18917,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-diatkochchin-fa-o-cfc-diessenhofen/","hash":"8a4b0c18b7e0fd3e1f995788a1e0db014c0284281ee2ea30a9b88ad290edfe18"}
 {"path":"cerca-lavoro-svizzera/ricerca-diatkochchin-fa-o-cfc-spital-thurgau-stgag/","hash":"1ce801c5fbf38ed149ad7fc57401adf11a4d321f19d6db88c98bb7f2a610dd5a"}
 {"path":"cerca-lavoro-svizzera/ricerca-diatkochchin-fa-o-cfc/","hash":"72a6ffe95dfb8e43d773175086ea66f86f0bfa50e2096a04dfef553b02a2b245"}
-{"path":"cerca-lavoro-svizzera/ricerca-dicaria-ticino/","hash":"9714d6dd29fab2d283a09ec97620e80719efb8c7be1f2bbe4b3c5647e8319265"}
+{"path":"cerca-lavoro-svizzera/ricerca-dicaria-ticino/","hash":"8c7418f9f4a2e308dfec1a5bae31b37ded947c6b3f39650fe5fea6ac9d842dbc"}
 {"path":"cerca-lavoro-svizzera/ricerca-dicembre-sion/","hash":"3e71b5979447612ea015323890493025a5869999ea5dd77a3c7a62598ced6356"}
 {"path":"cerca-lavoro-svizzera/ricerca-dich-arosa/","hash":"ae6cee076856eb08a73f4ed031d00d2e66fa8dce0813b2a2ff2354467f001145"}
 {"path":"cerca-lavoro-svizzera/ricerca-dich-ballwil/","hash":"07ea0e5c888deb49c665055dabb6be93a2a7619bcf641817d78796e28453c437"}
@@ -19138,7 +19138,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-dinamica-lancy/","hash":"fc2f4536d156b2e36271e8203bf85a4fcbec82a33f6cf348bf996d6bf053190f"}
 {"path":"cerca-lavoro-svizzera/ricerca-dinamica-landquart/","hash":"c90254fd13d2437fdc189f37f0d5a169aca5ada849d0fadede3792b2d03b28af"}
 {"path":"cerca-lavoro-svizzera/ricerca-dinamica-lausanne/","hash":"bc4f99f76e045d1aac763731d6bba0c7b16e376985534d510f5b956394b05185"}
-{"path":"cerca-lavoro-svizzera/ricerca-dinamica-lugano-ticino/","hash":"2697055cd7ec893ac06b9138485109e368d88347f46c409c02394b6f7e46a3ea"}
+{"path":"cerca-lavoro-svizzera/ricerca-dinamica-lugano-ticino/","hash":"81427cdeaf4d1cacf7406b8bf4617022280e4dc25f9218c2b8e7f7e1e8db3c92"}
 {"path":"cerca-lavoro-svizzera/ricerca-dinamica-payerne/","hash":"28ad576822b13e1714f8e9a32e8db55b8cffedcc194f79da3238fa59639daa2f"}
 {"path":"cerca-lavoro-svizzera/ricerca-dinamica-sion/","hash":"50d5accabdeb8a233fda2830189b10c18dedc59d6c2859f4eb8fea3d88305a7b"}
 {"path":"cerca-lavoro-svizzera/ricerca-dinamiche-munsterlingen/","hash":"7cb4fa66672f7850458a8d019f33152db7d0b0eb1d994355c351056e31a9ab95"}
@@ -20558,7 +20558,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-leuggern/","hash":"c7b086b611859756a1be3bd88f2ddfe87f9996aab2f46bfd3c4a41d03533bf8f"}
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-liestal/","hash":"3af3b641f635c0aac60968785d7e7144627e4619cd4137813a0d9e719f9c94d7"}
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-locarno/","hash":"452ab78372c3cb7b11fb733ca13df2858087618ce9d0ee7c74da3f3bd6304590"}
-{"path":"cerca-lavoro-svizzera/ricerca-diploma-lugano/","hash":"fa92a14628f0d9f3e715cfee34a375e12d07e5e6d973f220fb29461942634e3f"}
+{"path":"cerca-lavoro-svizzera/ricerca-diploma-lugano/","hash":"3384da3567e37a6134454c6a04fb065f0831d2154ffdb680c74f870534b6ccab"}
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-luzern/","hash":"d4b85900cda5b7db3458bc3b0a196ed8ea28516ef29250ea9139ff46dc144c9b"}
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-mammern/","hash":"29d55c0a7583c716bf97c4f8279f6561d70db6792f0b40c82d8eb1a9698e3f13"}
 {"path":"cerca-lavoro-svizzera/ricerca-diploma-mannedorf/","hash":"d2eadba9c762a6e20eccc213ada23dc1906cd0f91fc77bc65751acfe4dcd9a02"}
@@ -20671,7 +20671,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-infermiere-ore-hf-fh-chirurgia-kantonsspital-glarus-ksgl/","hash":"9448448bb47e862b7cbd4800968955133bdeb126511effa4d311f0d52c861370"}
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-infermiere-ore-hf-fh-chirurgia/","hash":"0402e961c01cf97d83f4d7075985b3ccc7677d2ab17ab9659a470ef62049fcc0"}
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-locarno/","hash":"f7fafea8bc924e567dc6651d0440f9f45eccd09e79db0a8cb16d5809c1e71ff1"}
-{"path":"cerca-lavoro-svizzera/ricerca-diplomata-lugano/","hash":"7da5d7707a6a4883110d6a384d3c852e1c0eea3811055d01857a19699f6b00b6"}
+{"path":"cerca-lavoro-svizzera/ricerca-diplomata-lugano/","hash":"d07e030f01dd73ec73258ca1f134278b2e91b0d26920ecb399c75853992ea3e3"}
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-novaggio/","hash":"f0a9d6f3e9365fcbc901fff9995f31df63c0dc0dc948d9509cc6793b005e47ac"}
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-pflegefachperson-80-basel/","hash":"9b898f89d7dcbeb5e865d42f8eafc32d3a4ff6c83c5163667b8c4bb14b5418fc"}
 {"path":"cerca-lavoro-svizzera/ricerca-diplomata-pflegefachperson-80-rehab-basel/","hash":"728f69dd4bba4f8b27c9153ea592df6b652f2f0f62fc224f2f6ff421a4ff68d9"}
@@ -21403,7 +21403,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-lenzburg/","hash":"169e6806cb7cd4de7b663cf513df60f65e8bb3a29d4ea9a92eeb86b22c9a8cb4"}
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-leuggern/","hash":"6d5cae2095adb0813472f9a65e2dac63faaf0f1757a6e5ad3857498e92af1507"}
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-liestal/","hash":"e79aca882627769dba705fabd96ae51609e1d12040e0d05c57d3380117740151"}
-{"path":"cerca-lavoro-svizzera/ricerca-disponibilita-lugano/","hash":"65d955d16c3e092c0349dff1322d391eeebb6eabeffa0daa206ef18fe82a44ad"}
+{"path":"cerca-lavoro-svizzera/ricerca-disponibilita-lugano/","hash":"cccb002d09ca89bf419710d956d661331a2d2d8c677db15ebf38436f572a229d"}
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-luzern/","hash":"1ed123571a3efcdbdd63f97d0d263d1ec7e7931d84dd6436a4a30885e31a20ae"}
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-meilen/","hash":"dc274565abc45ae6a5a006dacc24bd62face3e82b053dc5a032ecb93d6504427"}
 {"path":"cerca-lavoro-svizzera/ricerca-disponibilita-mels/","hash":"d847a8523f8cc5e8559c3838473b3bf076bd6b4a87a021bbe92ff3166be2413d"}
@@ -23421,7 +23421,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-giubiasco/","hash":"0249f06c5a85351a99a7278e31b19bd5cc369a21e4bbc7c29247c6e1a4bdce56"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-liestal/","hash":"26b2e45573015d5331c6f87b829d21b87b4d3b13b1750a7a9073414e27024243"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-losone/","hash":"6a542a6f5d39d324850be9e61edb0c3659e5f054c1f28f839ee31e58ce160610"}
-{"path":"cerca-lavoro-svizzera/ricerca-entrata-lugano/","hash":"6a24cec34ceac4c48e6a614e6acc0848d13c2ebeae7e7f7cd1e7637eaeea7342"}
+{"path":"cerca-lavoro-svizzera/ricerca-entrata-lugano/","hash":"6e69d62e3b35fec085fb606a39224fd11ba7baa4b47cbb549924a5d5f1b9ef48"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-lumino/","hash":"38457d04ee763ccbb9591c36bf62497371a869f87496d0222c7bee29effa191f"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-massagno/","hash":"60dd8391328660882279fed48fad3ab6dd985f9199a0bfa18fc7a4cf3442e02b"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-mendrisio-borgo/","hash":"25f08743eb6fdc8141d25fb26ec248cfbae560bc2ace370fe40047f12b62ab01"}
@@ -23437,7 +23437,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-tenero-contra/","hash":"4e069fd3d15dac5b500e06994e63dc980ac3d1bf3728b18b53b46c87fc548297"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-tesserete/","hash":"dd16832441d73c0f78c8bccc7d4e577b453dba2ab76f6eb011bf313d64f6dc0e"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrata-viganello/","hash":"f2d4fd31a5d447b9f6fa8b86db6e848c486cdee9c2374a36752af621b3479230"}
-{"path":"cerca-lavoro-svizzera/ricerca-entrate-lugano-ticino/","hash":"bc56a8b694e0720e7bada7e7c070a5422df60b93ff6c63125e48294d01713bdf"}
+{"path":"cerca-lavoro-svizzera/ricerca-entrate-lugano-ticino/","hash":"fae887e80db4e153800af784248698eb5fccbd85422c9895082f84844d28c805"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrate-wetzikon/","hash":"009a7f1d8793b8528a893924a8193f1e39b3cf03c187deb6c3450ed193ae1525"}
 {"path":"cerca-lavoro-svizzera/ricerca-entrepreneurial-zurich/","hash":"6fc772ba0b43068b26f6282680ca9f16c12ff82a2bf5ed3726f24fa03989bc24"}
 {"path":"cerca-lavoro-svizzera/ricerca-entro-airolo/","hash":"504cdae50725c9cd3a923fc79e0a4842a0c95a38bcc3461a32c4e16c433fcfee"}
@@ -23539,28 +23539,28 @@
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-50-zurzach-care/","hash":"8ab867300605ababc4564e98aba40cf058ae7b4a1a4dd24686ea47fe5258e257"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-50/","hash":"3d63ba1a32a64f11a8d5d0b003b0dcf53ee075883d933585e15424470ff35442"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-60-spitaler-fmi-ag/","hash":"fe8085d627d7927c2e828cc6608d8545053275dc71112c9c815af814545b0d25"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-60-unterseen/","hash":"6f51779be432b5fc09c31503b972186f33471c62c80863364db3a80ee6b149ae"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-60/","hash":"0e1185a77d9dc898ade3a997141b689dded104496545a48fb361ba7b4e88d162"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-60-unterseen/","hash":"7b1dbae2806f81923375acfda39bb274454370dac5160e45850909ce2d7a0422"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-60/","hash":"896415334fb9276d89390b44902aba1c0ad39713bf11c5be352a1b5a60d8408d"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-80-muttenz/","hash":"46374f65495cfbe2c1d1add218a2556b7b20ab6378fc9fab391899e2cc42e8c4"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-80-rennbahnklinik/","hash":"9234ca7f4e24336d50a37957ca9449b127fae45aed34d4bce6a52c4a19af7c77"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-80-solothurn/","hash":"cb4b98b31332f6073e545d628387800523c2d48f8165532e3cb1fde1a6d695cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-80-stiftung-bachtelen/","hash":"4afd109329324fdff5b46080084cf36cd80585cfd0895938b3c75090a150306c"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-80/","hash":"0168cf8019338c88ff25482b7c2e0243629b5e14d20938af0569bceb0c8feb65"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-chur/","hash":"7756b6905f4e16365e6917904c6d816dd949734b6dd5721179b7c57cbd97a11c"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomata-o-100-lugano/","hash":"0be3e9d19eecdbdc7344c145b28d1b86fc9e74a92d539b8e85042b2b1135a777"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomata-o-100/","hash":"f6f7f434888debfd9db9be96e82d9ca9dbe0620d348f37349a50bf36e0c5b923"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomata-o-100-lugano/","hash":"7ba6c5e081ea375aa4583d15a3f51c47b4f3610625e56c78aff87d511242fbf1"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomata-o-100/","hash":"b45f8a4d68fcc537413f05205870e63f818fb4c57e15e74c16ccda57a16b47cf"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomato-a-eoc-ente-ospedaliero-cantonale/","hash":"b851978da5a6b2207d3ed2c5bc2acf9a04f4202b046316b41209fb2de61d3172"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomato-a-novaggio/","hash":"beb9a9dbe1023da38cf0d536d598212b2ee365b1a8ede7db213e67172642a7ec"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomato-a/","hash":"6ab188de5286ec353789f078121e0d1ce85ae9cf1c31e61e5b45f3a852ecc8fb"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomato-a-novaggio/","hash":"f016c798215816b8c55bcf470c0f97c6f546e70cabb10cb6c9d1bd284b9514de"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-diplomato-a/","hash":"6c4f7e64debb254110baebdc0a154cfc7092863243308d17348916d3a5ed0a44"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-60-luzerner-kantonsspital-luks/","hash":"59615bed6502369dbadfa781034da72dcf2bd0718f64d46ab953f9f7ecd8000e"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-60-wolhusen/","hash":"d7f316cc0a48790eb344fe86fe69d9e7ae48a12bbb6929012b368645e5f21639"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-60/","hash":"02487917776de741451325c53948c821f2f0ca32e0a8ff950fb5d0a6d1b39d8b"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-80-berlingen/","hash":"e9ec9a1751e315cd7620ec78e7060cd93ba6535b148d3ef04e6f6e5c7aa443b8"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-60-wolhusen/","hash":"402c5c4847444207694bea252384474514ca8d0a620f9306a44beea25afab191"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-60/","hash":"09fa62883eff2490235e5596be57aaf788067abe4cdd9fa71394b54ba413073f"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-80-berlingen/","hash":"3cedc7b5c7e5f9f121ef0c003da83ec71288102da3bd5ced06db5478a1b93170"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-80-tertianum/","hash":"2725f7e39ae639bee29267ce0e80dc88eb4d35ea382bbb898863179842d9bad2"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-80/","hash":"14ad1696b5cd34f74adc1be65c61de075694b087e6c4e1d20f7f2cb9c11b4a40"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-u-m-d-solothurn/","hash":"5a9ae26daada1c7d35e40a4407d86e08fbce660aa5c0f7c8d401e0dd2abbd7ea"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-80/","hash":"2a385a23f29f56c5db72b2fb965cf795d32d7733a75af7434229f4e29b7fb57b"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-u-m-d-solothurn/","hash":"ea1cfed4562b02d45306ba3b32624a2ca7cab08f3a1bc00d74322455c7ec87f8"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-u-m-d-solothurner-spitaler-soh/","hash":"f6c4a70794f21d2e084077df98ccaed4ad9d2c4ad19d2ded2c871def2769c1ba"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-u-m-d/","hash":"9e9c28ab34b6d51be87e681fd642b914f941f58536250f94b3c01641e5bd8742"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-ergoterapista-u-m-d/","hash":"45d4fe83212e4374b868c71cd178b96c8b3c29c2261198ff118697a4c382031f"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-gruppo-ospedaliero-moncucco/","hash":"28c36f8731d785b498152bb0d0c265bdae2b0e354c0fae5fedb534e720bc9095"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-in-80-brig/","hash":"cb0f416ead346afa2adcae82ab7691bb526750b5c845a440f2aa33f5b5f26a62"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-in-80-hopital-du-valais/","hash":"bf2d8dccac16304397092fa4fa8445a5d00d0ee6a7800be2bb3f4a7a010444ac"}
@@ -23579,10 +23579,10 @@
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-in-psichiatria-dell-ospedale-geriatrico/","hash":"8a43416315b7b04848a7043e89775a8446e6a238eda49fe89b0f396db2984577"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-kantonsspital-graubunden/","hash":"8dd99e246975e5cb0801515d62fc4cb77ba670a760bf84252bf4ea2794b84a81"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-liestal/","hash":"6e96cf8f8f16f0a225847953c5f95bd3485794f345a2e25d62c2f0e9cf2c6598"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-lugano/","hash":"bf6074c3814c739c61717c00bfc3d4c01fe7f4690523668028d9fa6dcef1a2a3"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-lugano/","hash":"77239ceadfb37bd334ce2f61a3a854e495ace08a0f7c083ead0529bbba8f7349"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-neuchatel/","hash":"0aae75a8b81dc2dd32bd49e945befec07455819024215a506085e1b9a970995a"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapista-novaggio/","hash":"faff8b1601b86b718775d69f881cc876c56b1ac38ece7837ead6f103e906368b"}
-{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista/","hash":"1a449254b2eccdd1308a7698f7fdc7a690a3b7c68d79594179e9626aabdcb53f"}
+{"path":"cerca-lavoro-svizzera/ricerca-ergoterapista/","hash":"701ca277e847d100e3c870deebb9e63e102f9f6954720e48d84da51af9974e1d"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapisti-ctr-aubonne/","hash":"1dc8729f823a55dca2739302b251cccfb2f7df6177aa7fd00ec5b3e59d354b8c"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapisti-ctr-ensemble-hospitalier-de-la-cote-ehc/","hash":"667a8977b628c193ab05c649d6689fdad1677e59ec2bff5087e0db2a3da835df"}
 {"path":"cerca-lavoro-svizzera/ricerca-ergoterapisti-ctr/","hash":"7bffc9e78555cf71b60b3b93822cf51df9b0d66ae65794047c2311f88a0d2b09"}
@@ -25200,7 +25200,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-fase-bellinzona/","hash":"2491e286fed67979d6b922588d8adf7089be0d091774f63d3564fe58d3842ba2"}
 {"path":"cerca-lavoro-svizzera/ricerca-fase-bern/","hash":"2e5b3b50fa67c9a2c5a1a766bb1d67799a59f8181a3759934fdf4e8acf91ff17"}
 {"path":"cerca-lavoro-svizzera/ricerca-fase-bubendorf/","hash":"1d960a3f8770f69f3c2e6ecc06855f8a789a1eccd605cdb60ba76185bef78b2b"}
-{"path":"cerca-lavoro-svizzera/ricerca-fase-lugano-ticino/","hash":"8f4cc1c5d777bdf2a518fd5cb65e6e73e5b302e42c1f9adae58315967ec60d37"}
+{"path":"cerca-lavoro-svizzera/ricerca-fase-lugano-ticino/","hash":"369127d125c27d77380f04f4ea38748b254552f7062513124853d0dbcac0c888"}
 {"path":"cerca-lavoro-svizzera/ricerca-fase-stabio/","hash":"ee7e04ec11daac8a2ca36cdd8e27fdeb4039f3d12917a6e15c97526e52dd1bdf"}
 {"path":"cerca-lavoro-svizzera/ricerca-fase-sviluppo-di-utensili-speciali-per-il-taglio/","hash":"9ce190e303c1cfc10e28b5f04fa99171b6e22ee8c39a14ce7f287e66f704bd81"}
 {"path":"cerca-lavoro-svizzera/ricerca-fase-uzwil/","hash":"a065db1c304c8629b29d626fdac4e29f55e03e72fe40f82b834e9221a5cadafa"}
@@ -25214,8 +25214,8 @@
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-dei-dipendenti-al-100-nsn-medical-group/","hash":"04bd71922e34bc7bac96be7eabac578cef93062c9c5a98cab104472efa4c64b3"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-dei-dipendenti-al-100-zurich/","hash":"a4b397901f35a54b77a9bf35488dd95b425a85c6828333b0c5b2066354f0ebec"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-dei-dipendenti-al-100/","hash":"c12b2e6edc17c53eff8969f18291ccca509c7bfeef01f6a99cdcaa1cd53f5b03"}
-{"path":"cerca-lavoro-svizzera/ricerca-fatturazione-del-paziente-del-personale-90-m-f-d-mannedorf/","hash":"d8ac2f9f6e0ab072a53b7e7230f42e24ae2eb4af2306ca477405898f2ef40438"}
-{"path":"cerca-lavoro-svizzera/ricerca-fatturazione-del-paziente-del-personale-90-m-f-d/","hash":"d2b99e919127154503c3870b3ff1119dd882d93cd1ef320661c62f7b79f488f7"}
+{"path":"cerca-lavoro-svizzera/ricerca-fatturazione-del-paziente-del-personale-90-m-f-d-mannedorf/","hash":"8c4a25ed7703bf353af2f705bd8234e00a3791fb6eb2230d3f27a962ef571ff9"}
+{"path":"cerca-lavoro-svizzera/ricerca-fatturazione-del-paziente-del-personale-90-m-f-d/","hash":"9373a59774f5c21c16b2eb7df4b694adf042a40bdf13430caeb703681a2fbfaf"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-langenthal/","hash":"032043420d9c710b74aff2061a71789bd69bcf5e5ca8cdcbc1185f410f1a5d82"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-lausanne/","hash":"2fac0aaf39a791043cb2d65fdd0156db41801575e97d47577b50a2f295785f2f"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatturazione-liestal/","hash":"e0c38bd4902f86d5517654ed7c0eb7db1e40646c5b41fea1f5af526197c086fb"}
@@ -25232,7 +25232,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-fatture-nidau/","hash":"57b0ece873d3ecdec54855ca8dfbb181ae2f45556a4b9b30b7690d3213156f84"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatture-oberrohrdorf/","hash":"95ee217125158ce2a389ab4869a85fab30c133629a5b1ae8e498b2a0eb34d597"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatture-thun/","hash":"49917372ffe9debbfe222c26b88c3793283cc9df362c4dbf002efc22ef130cbe"}
-{"path":"cerca-lavoro-svizzera/ricerca-fatture-ticino/","hash":"1527a667150b5ec1dfed3caf8cd66dd6c18b8f058c73121c5032432cdc014d7b"}
+{"path":"cerca-lavoro-svizzera/ricerca-fatture-ticino/","hash":"f2580b4edddb6e7e9bfc777862143ae9879bdc8cf4845f3934ad338229156612"}
 {"path":"cerca-lavoro-svizzera/ricerca-fatture-winterthur/","hash":"4ee81fe175d3df042481d055bda046a38183beb8ff3e12f23e5e257e95175559"}
 {"path":"cerca-lavoro-svizzera/ricerca-febbraio-luzern/","hash":"c264dea9830cf0ed93f4c73676b44f0e4fad467e4cffb983b625e540cc0da964"}
 {"path":"cerca-lavoro-svizzera/ricerca-fedeli-home-office-switzerland/","hash":"5dab4e60d49b5010d37ab779c5943fc712ffc6fd2a316301f167082888aa5de1"}
@@ -25490,7 +25490,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-ferite-horgen/","hash":"91c0539d46af16649d519359c38b02c97a7ef92407e0325b2aac19e76024ad2e"}
 {"path":"cerca-lavoro-svizzera/ricerca-ferite-luzern/","hash":"95414cd0fafcc03fb862d974179cf51aaa2ea982105d82b62ebc526d61fcbf6b"}
 {"path":"cerca-lavoro-svizzera/ricerca-ferite-reinach-bl/","hash":"15f487387573e47de02d88424c89becb32adff4ec814d734c7037aba19a0c60c"}
-{"path":"cerca-lavoro-svizzera/ricerca-ferite-ticino/","hash":"963fcf770537997a53d767c5b81aae8d7b6bf480a18f8bad50392255d1bd916d"}
+{"path":"cerca-lavoro-svizzera/ricerca-ferite-ticino/","hash":"4db755eccce3ca9f3c45a41cf4c1b1b52e03c6ed19f3f106900143baea982610"}
 {"path":"cerca-lavoro-svizzera/ricerca-ferite-wetzikon/","hash":"24a6dc9eb1469b32dd8101cca98178233dc9b17d78c0efa0014b06802815d8e9"}
 {"path":"cerca-lavoro-svizzera/ricerca-ferraiolo-bellinzona/","hash":"096bb7122a4b9474ebbed1a31f0a2e5f00475f6d892c58c45c62d8c8684695fb"}
 {"path":"cerca-lavoro-svizzera/ricerca-ferraiolo-pemsa/","hash":"9e01210b4a780814f567698e1a671b91c5bc8fcfb95c8f8ba9d094056d7715ee"}
@@ -25845,7 +25845,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-fine-zurich/","hash":"39aafefc452b2ea93b81a241060988d54327ffea097c0f4ac9a8592687f5592b"}
 {"path":"cerca-lavoro-svizzera/ricerca-finiti-molinazzo-di-monteggio/","hash":"a3ad377e0409e9ae1a989eafbd5b8b089db2912aff8a20732dfede4b32a32e17"}
 {"path":"cerca-lavoro-svizzera/ricerca-finitura-bellinzona/","hash":"9b52743e818585fd5d012c17bb9db0d57be3de70a0b8d2f09e8b897a2f31e13a"}
-{"path":"cerca-lavoro-svizzera/ricerca-finitura-chiasso/","hash":"f8bc203aa3d539508612e635f9e14774193d886325e3b8f8225fbcbe2fd1a693"}
+{"path":"cerca-lavoro-svizzera/ricerca-finitura-chiasso/","hash":"8a62170ecc6a5dcce0a94e826986f81932d2d630d5f9d8b1667877f5a4343d53"}
 {"path":"cerca-lavoro-svizzera/ricerca-finitura-geneve/","hash":"a3a054049ad97e1c7f428ce84a1cb21cd189327a8110c6fb445ec7803c47fcff"}
 {"path":"cerca-lavoro-svizzera/ricerca-finitura-plan-les-ouates/","hash":"9b66f202ccbfda5d585895283828b900c7df20d653751f80643b09b43064ba4a"}
 {"path":"cerca-lavoro-svizzera/ricerca-finitura-rivera/","hash":"415d3bad1e0e7928e8f0924c5cdb4cb7f85cdc88d8ea6ea846d5bccc2949cb9e"}
@@ -26592,7 +26592,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-flusso-geneve/","hash":"86abe98307b6cb96755f3eaa61ec25da0839b9bcdd5d7d0778f58306d257a30f"}
 {"path":"cerca-lavoro-svizzera/ricerca-flusso-jegenstorf/","hash":"d08b4eedfb4c63d614e80eb3b0e89d432b8ed581def5020a81833a64f85744a5"}
 {"path":"cerca-lavoro-svizzera/ricerca-flusso-zurich/","hash":"aeb95a819aea4aae096d9e4189fbd15e21e521b5874b57483e65b30a19865766"}
-{"path":"cerca-lavoro-svizzera/ricerca-flutter-chiasso/","hash":"e3342abd041d4704c67499a89200dcf103d3f63361c476b04d7f40cf0ca31052"}
+{"path":"cerca-lavoro-svizzera/ricerca-flutter-chiasso/","hash":"ed16e4e1f070e9208d0b893a049fabfe818ed52ab0a0249aa1bec646246f2aac"}
 {"path":"cerca-lavoro-svizzera/ricerca-fnpg-marsens/","hash":"06a635b517b0aa8a548395cbe7ea9170f09fe3a98c6776f394aeebe1de2947ce"}
 {"path":"cerca-lavoro-svizzera/ricerca-focus-chur/","hash":"4a25dabd3cbf01e694398bcbc2dd7f9cab6929ed8e1c686737ad055cee45feeb"}
 {"path":"cerca-lavoro-svizzera/ricerca-focus-gontenschwil/","hash":"16c10f6d74e21f3ade46ed877d77b118badf8ded992524142e88c2231db3023c"}
@@ -27707,7 +27707,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-forte-lenzburg-switzerland/","hash":"cce467ca0ef614ce29659305adbd38684d04cfca6bd6ac471408b1ac90cecf33"}
 {"path":"cerca-lavoro-svizzera/ricerca-forte-lenzburg/","hash":"133521fda3946fec73c48ec4f0bcb2f691cf66cd023acdd957061f866ee315e6"}
 {"path":"cerca-lavoro-svizzera/ricerca-forte-leuggern/","hash":"98f422795f40bfd6837d9133cd7d5473740c9a5703ea1cc7b99d0366e9529906"}
-{"path":"cerca-lavoro-svizzera/ricerca-forte-lugano-ticino/","hash":"e48487c54aa45ea95b04b571938093e610cea438734c0255dc3ae908fb661451"}
+{"path":"cerca-lavoro-svizzera/ricerca-forte-lugano-ticino/","hash":"30c4c3b170365a3c47c855b8f1afcf1d75084e1f2db141e9ffe966ad62b7e92f"}
 {"path":"cerca-lavoro-svizzera/ricerca-forte-lugano/","hash":"27b8e28cb25d5d5a0758ea3c9d5f13a47e34c264cb9a6b639fd699b6f4011375"}
 {"path":"cerca-lavoro-svizzera/ricerca-forte-luzern-luzern/","hash":"9eccc8f1b19451645748339aab847d82e7d0f49c9c65828b85aa673b579ae5ff"}
 {"path":"cerca-lavoro-svizzera/ricerca-forte-luzern/","hash":"1ee656a7fe779f99a08a3be9149075eaec5e01fa9ac926c170e833ec74d26f0a"}
@@ -27857,7 +27857,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-front-lugano/","hash":"74a07de248ec56a7df8ada50ea21db2b4dce42d0cbbbb498de6db424fa80f53d"}
 {"path":"cerca-lavoro-svizzera/ricerca-front-office-apprendista-m-w-st-moritz/","hash":"eb79bff3a89e0123f30812b356819238f238baa71b6afdb450adc4a589acb691"}
 {"path":"cerca-lavoro-svizzera/ricerca-front-office-apprendista-m-w/","hash":"aa3917eb7d16e4c948bdd52403a3bed31fdf9f8fb4b23ad71add9936e5d08e04"}
-{"path":"cerca-lavoro-svizzera/ricerca-frontend-chiasso/","hash":"9eede6cd6d23de304a35d825a00c6537676b4bf696a1f2be3613e88f247e4a3e"}
+{"path":"cerca-lavoro-svizzera/ricerca-frontend-chiasso/","hash":"6e26a3f1d9eb79b0d63ed19e2a4b9b11b93ea1b648360c3efb467856c7b069fc"}
 {"path":"cerca-lavoro-svizzera/ricerca-frontend-zurich/","hash":"6176a80f2a82f14709609c62ff0cab4ccad335c409564ca696c424e00ab35aaf"}
 {"path":"cerca-lavoro-svizzera/ricerca-frontoffice-collaboratore-trice-m-w-d-harkingen/","hash":"07ae69dc724bebf87938254ffb8e6132dbe674bc0c8a878cdb36457ac0821101"}
 {"path":"cerca-lavoro-svizzera/ricerca-frontoffice-collaboratore-trice-m-w-d-hoval/","hash":"bd6845f1cc9660fe3bb8e6f78ea4175fb56441ecfbfbbddfa601b448e555534c"}
@@ -27926,7 +27926,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-full-zurich/","hash":"afdf3b82e38698c6ebeaedb12b7e624afffa7a7704ecbff486345c19cdc3dbbb"}
 {"path":"cerca-lavoro-svizzera/ricerca-full/","hash":"dd39256464bc3cf6ab5c06610413b2801a00cd9f14af3340f731c50d2b574d4e"}
 {"path":"cerca-lavoro-svizzera/ricerca-fullinsdorf/","hash":"43c0977fcbb1ea02dc00c9085becf9c34084124c9cabd9d90b92a2d39d409c2f"}
-{"path":"cerca-lavoro-svizzera/ricerca-fullstack-chiasso/","hash":"e03f2077cb4281f3de8c376f83b095657b3829085761b37b8255ac1fff9b59c6"}
+{"path":"cerca-lavoro-svizzera/ricerca-fullstack-chiasso/","hash":"9fb5a9121f8ff102a72cbcdde82269611a1d0af01677f831b79b42379a65cbe8"}
 {"path":"cerca-lavoro-svizzera/ricerca-fullstack-java-entwickler-con-m-g-bern/","hash":"b8702e98210544b6d9f0d0454aca2590478c628580d45ac56600d2bf3202a872"}
 {"path":"cerca-lavoro-svizzera/ricerca-fullstack-java-entwickler-con-m-g-die-mobiliar/","hash":"4c1b5382921c8b6561a8e6ec3aa2cd558afa6b564ed183ffbd2309284ebfae9c"}
 {"path":"cerca-lavoro-svizzera/ricerca-fullstack-java-entwickler-con-m-g/","hash":"a95818d13d073ad50076a8720db3a62b040fbd405fea4d9aad84e00faef502a1"}
@@ -28000,7 +28000,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-bischofszell/","hash":"7b0ee56b9fbeeae518670c0e6722dc1e9809b06dd296f6fbdebc1c39521eb8ca"}
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-klosters-dorf/","hash":"79f2740add3e56e77ee7dd19716d7f694973818430160273bd3eb4e4c2f76f82"}
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-locarno/","hash":"e36d572bb8232cbd95323aec387de1dfed03a1e89035a38ed679b5a1de223460"}
-{"path":"cerca-lavoro-svizzera/ricerca-funzione-lugano/","hash":"a341c28f9e0500ed0b92f3764e0c495a1aa8fcf1976ec05c36ce34facd533775"}
+{"path":"cerca-lavoro-svizzera/ricerca-funzione-lugano/","hash":"462afcc863bafb276da1eb7511c23f3c94773ee265dcff9f74c3ae349c18e531"}
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-luzern/","hash":"ca6773e114dd7f989c4e622115c3dad13297c14aa32b645753e109706bfbbfd4"}
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-mendrisio/","hash":"967f4368db41bdd8222330e10a6ada0a991fab90de341d079b101cea8b0d50ba"}
 {"path":"cerca-lavoro-svizzera/ricerca-funzione-munchenstein/","hash":"a128368d204d8ccd580c36ab842b30ffd0ec52565045dd38cf50204b0960e426"}
@@ -28063,10 +28063,10 @@
 {"path":"cerca-lavoro-svizzera/ricerca-galenica-ascona/","hash":"2138b7aca6c7d216830977e8875ade82b9ac12fb6846007b4258b4c573864898"}
 {"path":"cerca-lavoro-svizzera/ricerca-galenica-balerna/","hash":"cd65c19e39d1839cc58da2852531ea2d88f1d61f1b2c31da493c771202f6385f"}
 {"path":"cerca-lavoro-svizzera/ricerca-galenica-canobbio/","hash":"4aebe776d558ff994128bac88937e5d5dcd2c859146b06c450bb50c05c985235"}
-{"path":"cerca-lavoro-svizzera/ricerca-galenica-locarno/","hash":"116f3598ee53408261f23238b33cb2b8ed8650cc695b7ba4a721e7a756a4b480"}
+{"path":"cerca-lavoro-svizzera/ricerca-galenica-locarno/","hash":"44064a9cd5065a78a2fe7b7d4dc41740294779a01ecde306a77e528cb7d150a0"}
 {"path":"cerca-lavoro-svizzera/ricerca-galenica-lugano/","hash":"ef517bd497634128c8d3eb25ee7d9237640be73ce1ce28e2c0556fe303849d48"}
-{"path":"cerca-lavoro-svizzera/ricerca-galenica-mendrisio/","hash":"a2fae9e08018f4e238d221fb2d2deb8155282c00e5ecb938de86f00202a4cbf0"}
-{"path":"cerca-lavoro-svizzera/ricerca-galenica-s/","hash":"293b9b6f8a2448be6bfa4f3639736516a77dd374fa43e5966075ee7e1ca9f1bc"}
+{"path":"cerca-lavoro-svizzera/ricerca-galenica-mendrisio/","hash":"53d27e13480ed5cf8a6d2a9134cd1824fa29fe5d7687f691fd38f974410aa9ac"}
+{"path":"cerca-lavoro-svizzera/ricerca-galenica-s/","hash":"00131aca638bfe891282ee9a1c246270742e7714973f9ed25c9beb03bd22a23a"}
 {"path":"cerca-lavoro-svizzera/ricerca-galenica-tenero/","hash":"b74ca276f091615f6eac99beb956f70640e732ab339fa37b5de7dd6c54459d21"}
 {"path":"cerca-lavoro-svizzera/ricerca-galexis-lugano/","hash":"78128cd90d20341f3c39ddc2b75b855dba1b95a30b580f82285f416286c0201a"}
 {"path":"cerca-lavoro-svizzera/ricerca-gallen-st-gallen/","hash":"a7ce74bf589023b188a3f6f35ca1e9b9607ac314e8e548cfbfe0cf89d84e9fb5"}
@@ -28466,7 +28466,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-gesamten-basel/","hash":"8bbc3fe4b78927febaeff45f543cf4fdde1a8179899930769bb26733c3660dbe"}
 {"path":"cerca-lavoro-svizzera/ricerca-geschaftsleitung-monteceneri-ti/","hash":"60c35ff6dd29882e281b9fe4df6c66b641e49877b30ba15099d689b5488e62f0"}
 {"path":"cerca-lavoro-svizzera/ricerca-gessatore-bellinzona/","hash":"df0223cde0dede0abe2d0e895ee5cb45ba0b57f7fd9c9f42c521b5a4aa04647b"}
-{"path":"cerca-lavoro-svizzera/ricerca-gessatore-chiasso/","hash":"c44ec4c7b8a7e52a2d37f2fa8496f06b87dfd452d673d6818d37e22c6b7a75fa"}
+{"path":"cerca-lavoro-svizzera/ricerca-gessatore-chiasso/","hash":"d225760f28fe3682e830a8bb30ed6a92be6e0368c6d3a59a7d7d37473cf16cf0"}
 {"path":"cerca-lavoro-svizzera/ricerca-gessatore-pemsa/","hash":"5c538dfcc083014416027df8c7e44e242b10add074a6b2c76b4069ee6153842a"}
 {"path":"cerca-lavoro-svizzera/ricerca-gessatore/","hash":"49aa88478f7363d2087c10dffb27af43252f50a05b953060254e1c64902965e6"}
 {"path":"cerca-lavoro-svizzera/ricerca-gessi-schaffhausen/","hash":"0c6c6cd927349f39fe95326f7a01755047216cab40038362dcfab8f2a2ebf2fa"}
@@ -28510,7 +28510,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-bulle/","hash":"69f2f87508a39609efe833c8c73baf4685b2243d6b3157dc2eba6a615a7fa637"}
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-geneve/","hash":"ea3e2ed7fcd4d6f36adf59491291197958e8a1f2429cd245da1d68a3c4828027"}
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-lausanne/","hash":"2e12ada4e81985a41953d9a9984b9db704cb7da8b035776ffa89c10a6ce55b33"}
-{"path":"cerca-lavoro-svizzera/ricerca-gestire-lugano/","hash":"925a51e3386ef8bd793b3d57b02ca683c58187edbc9b65c60b756b1ec30c2f18"}
+{"path":"cerca-lavoro-svizzera/ricerca-gestire-lugano/","hash":"44df76cf2b9b7e78aeb546dcd31cd25eb797d2c6ed4ebd114ce5d839a465ec86"}
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-martigny/","hash":"335e143069805b7fbb02f7c1a542753381d6664eec8d73dc184785c9e5ea4fed"}
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-morges/","hash":"151b1deff3c78956fe85aaa192564d60d71f315dd31e699d1b26caa6aef16604"}
 {"path":"cerca-lavoro-svizzera/ricerca-gestire-neuchatel/","hash":"f979679de99a163598e516659344f7a4e12e099ed03ffe85c2b041b6019e98ef"}
@@ -31189,7 +31189,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-indennita-chur/","hash":"c7895dc47796c50e5fb67e5ab75007d3c38f09f90a7840e6749f55dbff25a547"}
 {"path":"cerca-lavoro-svizzera/ricerca-indennita-fribourg/","hash":"764eec6742b44a5393a3eac0186c731298f46399e20d775df4e36acbd2dfae32"}
 {"path":"cerca-lavoro-svizzera/ricerca-indennita-munsingen/","hash":"38c3c0e6f7db9d3a0383409083b64b36c0bcf2457bda74684698c84a0d2de07c"}
-{"path":"cerca-lavoro-svizzera/ricerca-indennita-ticino/","hash":"46fa5c4e292b56e41e1e3bce938e603d72683e2e785b20a6076b72fe1e8ca111"}
+{"path":"cerca-lavoro-svizzera/ricerca-indennita-ticino/","hash":"136bea0ab8795f6ddfa4d1f379b97f75e714bed4aeaec54ffe4f382fca3d0db9"}
 {"path":"cerca-lavoro-svizzera/ricerca-independent-liestal/","hash":"f75558f337c430a5b00830b9ff268a541a8fef8f9003e81b9da735d83150f78a"}
 {"path":"cerca-lavoro-svizzera/ricerca-indicatori-baden/","hash":"e30dd0bea4eb40de3608d7a9062d7d304e4f55fc0c18318303775d9ff15f7b8e"}
 {"path":"cerca-lavoro-svizzera/ricerca-indicatori-zurich/","hash":"636bb3c17304f5689fe1169d9ecd8cf27344b5c1312ff633bdea1f6c3d5e7ee6"}
@@ -31217,7 +31217,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-langenthal/","hash":"65c423b0036767226c37b7d7aa0d709e5e84bf998203ec59d8057cbb52859b6d"}
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-langnau-im-emmental/","hash":"a499e9f943ac6622e1c0985acd3a056285df8301c6c7fd75cae4f04f0f370bee"}
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-liestal/","hash":"a45f9552873d5c5a8a653b492670e59cca74de5256ccd8d69f1dcc302a28165d"}
-{"path":"cerca-lavoro-svizzera/ricerca-indipendente-lugano/","hash":"aa1ec37ca3eeb9012b44174f98c576700a93bac98691a9bc8305ecdce68d9b53"}
+{"path":"cerca-lavoro-svizzera/ricerca-indipendente-lugano/","hash":"31876ab2e49be6aa9334f76a1d1602140acfe1f15d9b186ac04b6ebe433dc940"}
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-luterbach/","hash":"43241e96b1176fc5a244819129378c35362a9d5a9d366681c5c7facda70463de"}
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-luzern/","hash":"eb4ba119016e36dabfff1b37a6d61a810f127c6dcd4d2ae9725f7c535461e8ff"}
 {"path":"cerca-lavoro-svizzera/ricerca-indipendente-marly/","hash":"e1e19d6fb226dbcb52f59a09752f94fb935fb628912c51296f393e5e6b9facdb"}
@@ -35120,7 +35120,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-jakarta-luzern/","hash":"883fe61a082a3e8c09f907f7894cca0bb40f77ba0f9f91b464e74354cc82bb10"}
 {"path":"cerca-lavoro-svizzera/ricerca-jans-baar/","hash":"17dd77e1055bd159ed585d7471402ce950dc91d82b0991eaddac8e5eb126d080"}
 {"path":"cerca-lavoro-svizzera/ricerca-java-bern/","hash":"6a4a9fa5754c80b878bdc011ce693ea16b6db23eb38228193d80587e6e1d9105"}
-{"path":"cerca-lavoro-svizzera/ricerca-java-chiasso/","hash":"a2f50f63fb537ac79ee3c9446167c78fa78c8a032cfe64dda8369d714626d886"}
+{"path":"cerca-lavoro-svizzera/ricerca-java-chiasso/","hash":"f194983cdfd23f649c924bae16e446b58391939528b3bcc4f3cc841b6bcee84a"}
 {"path":"cerca-lavoro-svizzera/ricerca-java-jegenstorf/","hash":"d082307f85869952fbdd229144e6148259df13df35c5247f13ef8a750cefda7b"}
 {"path":"cerca-lavoro-svizzera/ricerca-java-lugano/","hash":"75c8420081e2597789df0b72f645f22d0072fa4fcf014233577a3bfca0c34248"}
 {"path":"cerca-lavoro-svizzera/ricerca-java-luzern/","hash":"77262c6566694e3fbab4ee618272e8aa9364b6a73661557e9fce846690d4e2cf"}
@@ -35775,7 +35775,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-laser-dell-ingegnere-del-servizio/","hash":"db1e115c23122f1f62d3fd61b38e171bc2c308e81aff7f9358cd556aca5d6db7"}
 {"path":"cerca-lavoro-svizzera/ricerca-laser-grusch/","hash":"84258bcc6603946f4051241c7c52087f76525b6b67bbfec6464540ecf6939b49"}
 {"path":"cerca-lavoro-svizzera/ricerca-laser-neuchatel/","hash":"d59ab6e158fc24dd8062e6c5e92731bb5e0294e5a4d4d9618b463f2b78c455ac"}
-{"path":"cerca-lavoro-svizzera/ricerca-lastminute-chiasso/","hash":"88a83ee62f4527ce9312abcb32ccda2649999b9df0ab97840238ffa58da0c9f5"}
+{"path":"cerca-lavoro-svizzera/ricerca-lastminute-chiasso/","hash":"874ef3e472b3350f8c9e004c55f19be6a2479a8f25e4dc3ff02987e513f34461"}
 {"path":"cerca-lavoro-svizzera/ricerca-laterale-ambri/","hash":"69f1c71013ed67ba7a6a9618588ea551ede8defa624018a5256e316fbc75593f"}
 {"path":"cerca-lavoro-svizzera/ricerca-laterale-arbedo-castione/","hash":"45991d05bc573b4fc81df460777875d242fead255b0a01245964aaffaca1a3d7"}
 {"path":"cerca-lavoro-svizzera/ricerca-laterale-bellinzona/","hash":"39f314dba018b54eed168d6d76f666e854eb53da9a3d69fce8e210a18593ad51"}
@@ -36788,7 +36788,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-livello-leukerbad/","hash":"7bddc8ce7a59db5a2b8098ddf6dc217c34c120fb1c8e92606a522a44310782c9"}
 {"path":"cerca-lavoro-svizzera/ricerca-livello-liestal/","hash":"238779690c25bd6f67e19bc6ed3db2bb75b7178f8c0b7cb798a82ae12b8f7e90"}
 {"path":"cerca-lavoro-svizzera/ricerca-livello-lugano-agno/","hash":"ca346c2c72ea9d758d6f0bfc5af0d74c1bf7516da6341ed679b4536291111f34"}
-{"path":"cerca-lavoro-svizzera/ricerca-livello-lugano/","hash":"3308ed8e05b3d5f6719757451c282cab2d8c4682c32d1452c247efd2312b3f28"}
+{"path":"cerca-lavoro-svizzera/ricerca-livello-lugano/","hash":"48754d594135c01346b1fe1dad0cc5774e4db7ba46a25692c42ce453e451dd7d"}
 {"path":"cerca-lavoro-svizzera/ricerca-livello-luzern/","hash":"1eaa5b9bd755fb90b8d552c174445d5412173711291aa5909f809dbe261ecd09"}
 {"path":"cerca-lavoro-svizzera/ricerca-livello-mannedorf/","hash":"c39e82df5266b9ecd934950f8563dd4a200d753d3a37ab2076b39b8012f85e58"}
 {"path":"cerca-lavoro-svizzera/ricerca-livello-martigny/","hash":"d32a45de6d6e926b111e986c3729aa02059179f97da1ca35c5dfe8099b5b9d82"}
@@ -37092,7 +37092,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-luftungsanlagenbauer-in-100-zizers/","hash":"c137d900f126282aee50b82968d895f02c82ef6102338314674672d4a4d8362d"}
 {"path":"cerca-lavoro-svizzera/ricerca-luftwaffe-dubendorf/","hash":"1cbd8a35ab15b357fbb3a656cad805476966dba69d5275ef452dd36f900ccb42"}
 {"path":"cerca-lavoro-svizzera/ricerca-lugano-ascona/","hash":"ea3bd81f31c47a2556018102170c6cdd044b552581b8b35183a4b63ef5f05308"}
-{"path":"cerca-lavoro-svizzera/ricerca-lugano-luganese-malcantone/","hash":"704f46f71edfe83df606dc3e56857807241c2fed8b17e81fd3539a171101f950"}
+{"path":"cerca-lavoro-svizzera/ricerca-lugano-luganese-malcantone/","hash":"fe5be86679a917ce57668fa4a130d226aca74cc74883c731e5363bf5ab29f161"}
 {"path":"cerca-lavoro-svizzera/ricerca-lugano-lugano-agno/","hash":"e88289bf55d2e9785808f3303fce8d1730d9c6932cda6797130cfeb4ad7ff5d6"}
 {"path":"cerca-lavoro-svizzera/ricerca-lugano-lugano-neggio/","hash":"f380d959158c7bde9282085de087ca638e33f1de44768eb7f5bf762b6d4cbb9a"}
 {"path":"cerca-lavoro-svizzera/ricerca-lugano-mendrisio/","hash":"12f7337f26f8576d62bdb3fceb84524a0ff285eb24a27ba8f563c53e8fda9026"}
@@ -37775,7 +37775,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-manor-ascona/","hash":"124dc817a3164aa344899449caf16db2b1916928eb85db319278319cc4afff69"}
 {"path":"cerca-lavoro-svizzera/ricerca-manor-lugano/","hash":"234805ee374c7aa02aa7c5e744fa9fada6d9f7a35cc555cc51f58ea63c2ae606"}
 {"path":"cerca-lavoro-svizzera/ricerca-manor-ticino/","hash":"4fd72c18616ea93ad510e078b481fa49b9504b6de83344220d04bff517d63c24"}
-{"path":"cerca-lavoro-svizzera/ricerca-manovale-chiasso/","hash":"b26e1d67e0c6ff07059d5397326758cb4835b7173bbad4bf0466e70fe115bdd8"}
+{"path":"cerca-lavoro-svizzera/ricerca-manovale-chiasso/","hash":"46a239b8fc9890e6d7ca7e90af6f255ca4989fb3452425f83617d8dfdd030b79"}
 {"path":"cerca-lavoro-svizzera/ricerca-manovale-edile-bellinzona/","hash":"f2f735fb96727f4874ae5e727d237765cb2698d27ba87c67e20f96e2a8c024c8"}
 {"path":"cerca-lavoro-svizzera/ricerca-manovale-edile-chiasso/","hash":"cbb25173456defd1733a928e227e15103258aeccf991b3e82bf99ab8382f483f"}
 {"path":"cerca-lavoro-svizzera/ricerca-manovale-edile-locarno/","hash":"830d8c14203a361bee20e99fe523de4cc7df29e2dce921314c2af859eb61cd5b"}
@@ -38650,7 +38650,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medica-solothurn/","hash":"4d04a3094976c512a313d039231a03e07b8def5fe9abf442ee29611fda323d70"}
 {"path":"cerca-lavoro-svizzera/ricerca-medica-st-gallen/","hash":"9c044e6895b83bdff5ad82054b03d2c5dc7dcd91ffb25d4ce0b2a9cb9e1c403e"}
 {"path":"cerca-lavoro-svizzera/ricerca-medica-sursee/","hash":"9799e2bf6574888c34fdc4341cafd9838c08ac29aece0ad65ab08739d7a7eea3"}
-{"path":"cerca-lavoro-svizzera/ricerca-medica-ticino/","hash":"c057e0d2a43fddbb388b8505936e4ff116bf06864d159303a75e647ba05c8cfb"}
+{"path":"cerca-lavoro-svizzera/ricerca-medica-ticino/","hash":"aa9d9fc46569b2448a756bbd90fb3a65135009d3b97cd94d5ce1be452b8d1c45"}
 {"path":"cerca-lavoro-svizzera/ricerca-medica-uster/","hash":"4db6376374f90e32d876a72d21d2c65371a1533571509b74c98bd7494c1ba3ff"}
 {"path":"cerca-lavoro-svizzera/ricerca-medica-wetzikon/","hash":"5155f6a85b2eacf78109c9db6a03f35b0b9dfd112c62547f0e897deb76683312"}
 {"path":"cerca-lavoro-svizzera/ricerca-medica-winterthur/","hash":"13a849364e48a6e4ae5169c2c7cc450a5c6afdc74f91d54c314e31afd3422204"}
@@ -38740,8 +38740,8 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medici-leukerbad/","hash":"41127dbecb2e39adf8aca3c3675eab29e41cac87bc46f4c2e92dccdfc083693f"}
 {"path":"cerca-lavoro-svizzera/ricerca-medici-liestal/","hash":"987ff8745e951a5f8b17334b2f9866b7d456669705556d9f1d1abd8f9edcde10"}
 {"path":"cerca-lavoro-svizzera/ricerca-medici-locarno/","hash":"a12d18c3cd1a064faef1fa9f45ac60ef35705aab9f97d1317323469f28a7e160"}
-{"path":"cerca-lavoro-svizzera/ricerca-medici-lugano-paradiso/","hash":"e1423f7ffea46ce2e9390e15a1be4b56dac37674b6a392e85921ec2a750ebc1b"}
-{"path":"cerca-lavoro-svizzera/ricerca-medici-lugano/","hash":"6fb77bf620c33d2508ca81a8c78ae53440f2cc10ffdd6487ae8201eb6edf10b8"}
+{"path":"cerca-lavoro-svizzera/ricerca-medici-lugano-paradiso/","hash":"b2e6350cc1a38e1ab11b743c188fb28172ff770e1ee510673c9973ac92bea2ee"}
+{"path":"cerca-lavoro-svizzera/ricerca-medici-lugano/","hash":"9b7233164b6e9050ec662eb9a2881f462f17cebc892b5e7ccf5576a075c49970"}
 {"path":"cerca-lavoro-svizzera/ricerca-medici-luzern/","hash":"87a6e88b27497ee650ee5786cc6dcbca0fcd6dac079b7f61829e4574ba4c3b01"}
 {"path":"cerca-lavoro-svizzera/ricerca-medici-martigny/","hash":"15541a13ce712b460f28fdf964f5703cc5f4e2d78e6c67e2291e055d244f7537"}
 {"path":"cerca-lavoro-svizzera/ricerca-medici-menziken/","hash":"c21ed16148627e9d068db6a021ec4cdc1671fabe1f24c74b412a00c6ee17a173"}
@@ -39161,7 +39161,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-in-medicina-nucleare-100/","hash":"1ef0a4bca83732b3d17d31ed6fe9dc8dc05d81e856aa7f79f42c93d23c2749c9"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-in-ortopedia-pediatrica-100-bellinzona/","hash":"22229ae02b8c65529915f88bb99775942277428d30e30931d4dffef2959a80b6"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-in-ortopedia-pediatrica-100/","hash":"0a724dc60cfadb9da895c1b97a87ee54d301f08e83911b10f78c80780d54c407"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-lugano/","hash":"837df8f95f6392446733ce9d4580a199cfe4c836923b5600d1f9606dd9c60b42"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-lugano/","hash":"839669f85f101a73479ae6913d6a16006323ad621697c847340b0eabfb030ec7"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-malattie-infettive-e-medicina-di-viaggio/","hash":"66d28fb9b2bdf1a67437cbc2b06e250b87799c0ede2fcb3a795923e97612af6a"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-medicina-del-lavoro-100-bellinzona/","hash":"d55c2794b9100229e5d712c79c6581cf9c2165139bb19cf49aa93d302a9d3f1a"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-medicina-del-lavoro-100/","hash":"c25f191c27c8e7ba88dc35a510fd4951905dd5f80df1514e472fefddbe956b80"}
@@ -39178,10 +39178,10 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-senior-staff-physician-80-bellinzona/","hash":"343ffff0714a56a56d9a8a208621e0f541bec55e6e028fa54ce97cb8063e5ef8"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-senior-staff-physician-80/","hash":"d278eeb022c639bb74203c1e4634652fcec15593121414857ad9123baad5b954"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-urologia-eoc-ente-ospedaliero-cantonale/","hash":"468d55021ab2ac33662ed28d2e56ca7a16f5b5293fbd37bec8bc486183c4e756"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-urologia-lugano/","hash":"1423e7cc538c588b7c5b65d3edb1ef9129167e1a007f882ba3096864050cd22f"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-urologia-lugano/","hash":"92ceec54a453caebe1b87aceb6e723379929c57943729bca41b0b847078a4bee"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica-urologia/","hash":"bc0f0ce626f2f0d695a713f96e61c79baf42788f14e2cbe3042e4e8ba96732d2"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-capoclinica/","hash":"6dc75032560c98c639b8b598324cbc4c26da461a2ed552501f45cf23fcff7d94"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-caposervizio-angiologia-100-lugano/","hash":"22a557c442de525a66d0b82c1fad8c5ed17b330fc1883db540128bb2113da139"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-caposervizio-angiologia-100-lugano/","hash":"0ca15e25705b677395305e31b5f6573618a4fd892d39f568ef0ee9d60769d9da"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-caposervizio-angiologia-100/","hash":"10a712a9f82abf86efc9e82bf083f2be1993a5d0e62f6040bae05ec0881e9443"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-cardiologo-medico-internista-80-spital-uster/","hash":"3beff9c967b90e59a7999b4bbd72c22f40f5303d7666496df81dc5304677dac6"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-cardiologo-medico-internista-80-uster/","hash":"6bec21b4998d1dbf5088ab7e67a816d9491a37bd0eacfb2b0d89d6dc9254ab00"}
@@ -39204,7 +39204,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-clinico-capo-80/","hash":"3c2cec82380ca766d7643bbff89090435128ed6e80f4013b6a71476e92d98707"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-collombey-muraz/","hash":"47456e0cd7c3146b56c4e412d113b01a04b56f7e44c5d63295c6f0ec6c0019cb"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-davos/","hash":"0909cc4327d9c3c7c10eeba8d380a99d0c4bef27f591db6ea61ec485806e7ef2"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-del-centro-per-la-cura-dell-obesita-lugano/","hash":"3e62f9199011e057ac8cb5120d5dfd6e865e9d143244a4c8f3bc15b660f6d729"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-del-centro-per-la-cura-dell-obesita-lugano/","hash":"b00c6937414bc3a10a71514644bda9ee843295b262ff3f9a574b87b78839524c"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-del-centro-per-la-cura-dell-obesita/","hash":"16e4b30fc50bd2b49eb9a38f94692dc11f7acb89476b8d2b2bf802bb63c0879a"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-delemont/","hash":"db4bb2c6f44ac88f28847194f2d1787e9f15b25644f122c3890d7706a140e92b"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-dello-sport-horgen/","hash":"1d57dfbb16bb90d519ab89735d4d174db8104092011bd71eaece6b853f5ff2ab"}
@@ -39346,7 +39346,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-leukerbad/","hash":"8cea85dedaa94c3943aaa0c874b5d898eb9c114a2d4db22cd86478a1ec9df0c3"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-liestal/","hash":"83f8ef8863660a4ff8490b9df9ed64b5eaf50b2bf43b703fc23d929691f92b0a"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-locarno/","hash":"19843741aab0cab91d350703b99cfb34c1fb16dc58596a46be12a1bad766b49b"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-lugano/","hash":"71172460161ad42b3fbbe0b8414f41ec9786a55cea936fe31569f7102e03d8f6"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-lugano/","hash":"5b3785783ef125d4d582346e0713f71054d548774406e3973579cb63cfa87fef"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-luzern/","hash":"c2cfc7c56837d38989a47e969714a6e775bf5c2de1526a0398bf82a69a181189"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-mannedorf/","hash":"32333ca417a159084fe8538af3242c854ec7c0bf69f2de596c5a3a571f4eace5"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-marsens/","hash":"f92123b91d17303e30f966decd8a4c2b8c8073fae84ff1e343ebc597bf796b6a"}
@@ -39394,9 +39394,9 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-ospedaliero-swiss-medical-network/","hash":"273b7c70918bb4319e19c546a49df54b7e96fbd9042678fbcbdc431c430b5efd"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-ospedaliero/","hash":"0bdd34713cf37ba36555aab1a785f47eeec4f08fd2c4c9ed4882e39b59faf2a8"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-payerne/","hash":"84c77c4e6a3516e6b9e29cba1657f5566489c2912ffd4afd0742682c0d521eb5"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-pediatra-in-studio-delemont/","hash":"3066085fa1b4b476faaabc463d4364862ac458a0a42d7f6585d4ca4100601615"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-pediatra-in-studio-delemont/","hash":"9553cf71c0b32c0895908f0513dc8691cc804864afff8d525013e0e703d77ced"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-pediatra-in-studio-hopital-du-jura-h-ju/","hash":"1e2f0a552e204374d1dcc3c6a21c233797193ab4124b1f3030aa85c718b2a7ee"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-pediatra-in-studio/","hash":"63d0834807a89b196389abe63cffb379b4468446b61d7b8c085782a62ca25f12"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-pediatra-in-studio/","hash":"b5f6d26a3a37b647e00595693ac5580453efd8ce085b2af068e01234d3aa1f58"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-pediatrico-con-interesse-nel-neurosviluppo-f-h-lavigny/","hash":"3c1944f6366a2faf8f07b0554913ced713c3d906c3ecf1aebf0c9950f18cf069"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-pediatrico-con-interesse-nel-neurosviluppo-f-h/","hash":"f55f46269f33195785664a12e286200c756feae1b8ef23ba0c62d51c5c33dd9e"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-pfaffikon-zh/","hash":"3e2285cb4d47829f3911326eb7c97883cada77a1d7b1af8bb18df902a74aa329"}
@@ -39855,7 +39855,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-medico-stein-am-rhein/","hash":"0cd986fc92a24c6e333d3ed970ed3f208250187786242b65b1c2bb64920048d0"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-sursee/","hash":"4dfe05451bd4fbb4b26f86ba56ff412c2f0be80cfebc8e299e51be191f02ef18"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-thonex/","hash":"dc5f2f23ff10bb7c240ed5dad97ad2017733ff1ae3ed49db5bfadb822f72240b"}
-{"path":"cerca-lavoro-svizzera/ricerca-medico-ticino/","hash":"c363c1767e380ee9e858e75fae56356b73cf66c27634825cf5ed5ec6167b7472"}
+{"path":"cerca-lavoro-svizzera/ricerca-medico-ticino/","hash":"0b6fb93f99c7a2376ded2eb07a15814f6bcb71c5451cb032e228e8fb690414c0"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-uster/","hash":"e2b7942f6d40b2d86d4c7ba57aaa4505cdaeaee84bdec1014342f114eeb68c11"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-uznach/","hash":"677004a694e5dde2ba1a377a0182c98d996e6f483627e68cb00a3722711486a1"}
 {"path":"cerca-lavoro-svizzera/ricerca-medico-visp/","hash":"e7eb188b7a279f67e630d6c36b275f7ac25da10b87d3236ea4298c25fe56395f"}
@@ -40371,7 +40371,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-micromeccanica-lugano/","hash":"937b0d96e77368b4ef12d36f9a0870c38ecd05bfab25628322b7b4e6cfc9509c"}
 {"path":"cerca-lavoro-svizzera/ricerca-microprofile-luzern/","hash":"ee0d1eb5badd4936cb619ae497bda6093ade11a7fb6955c36d950f94c74c5ce5"}
 {"path":"cerca-lavoro-svizzera/ricerca-microscopia-villigen/","hash":"5a7b9fb0bf505b5a5441fad0c942acbbcfda547cd86b18d73bc76c28f0b91e7b"}
-{"path":"cerca-lavoro-svizzera/ricerca-microservizi-chiasso/","hash":"0af4f1ecfa75d928270163c46bfbd9bd246ab0aaeebca21d6e2c82f20d049c92"}
+{"path":"cerca-lavoro-svizzera/ricerca-microservizi-chiasso/","hash":"04a592becafa1551f299a4112aab958a920629b16a4d9b021edbda36da3ff328"}
 {"path":"cerca-lavoro-svizzera/ricerca-microsoft-365-copilot-product-owner-m-f-x-lausanne/","hash":"867fa370bd51e6690104697069b5a675388d2fadcb80ed29ab37085b22528858"}
 {"path":"cerca-lavoro-svizzera/ricerca-microsoft-365-copilot-product-owner-m-f-x/","hash":"1c1a058639669d7f8ba857935760d606a22d38bf9f0825b478f04201e0b22a21"}
 {"path":"cerca-lavoro-svizzera/ricerca-microsoft-365-h-f-x-lausanne/","hash":"764e01d3122b07ef106d993be4fb01906c36546950fa1b4eb101e85aff1bccf6"}
@@ -40714,7 +40714,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-misure-horgen/","hash":"db7adf25362fc7eb7c1c7c0899bff3ba364b10b30c56bc29f3ec179825f88b5d"}
 {"path":"cerca-lavoro-svizzera/ricerca-misure-ittigen/","hash":"76a42a9506e192385315356e02b2fea61f43f9cc46f4405197a326bcb9978405"}
 {"path":"cerca-lavoro-svizzera/ricerca-misure-liestal/","hash":"147ff98862c66777efade40add2169a42f45ff0a347d165f3c94191b191db9af"}
-{"path":"cerca-lavoro-svizzera/ricerca-misure-lugano/","hash":"f6758c4e041ed4bcc21ec18ada4b6c7e73b25627d81961b36c85095da2510cfd"}
+{"path":"cerca-lavoro-svizzera/ricerca-misure-lugano/","hash":"00aed906d68705ee10d44c10a0a2b301ef7658e6301476f5bba2ceb384a7cfab"}
 {"path":"cerca-lavoro-svizzera/ricerca-misure-luzern/","hash":"9e94ac947d861c73aab87fccaec9d9926136c070d0d2e00273fffe1bd3440f78"}
 {"path":"cerca-lavoro-svizzera/ricerca-misure-meyrin/","hash":"f081e6125de98320131b9bcd32aeb2c9885adca64a188e40534a47d245867161"}
 {"path":"cerca-lavoro-svizzera/ricerca-misure-ostermundigen/","hash":"938295baf49b3ac5c901f8d5df01c1ff9c8eca4c0ea0523cb407cbbc3c6b066f"}
@@ -41142,7 +41142,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-pannelli-solari-locarno/","hash":"7e29c8abf2895aedc5def1bcea831ef810040b71ef0d7ddfad32528ecc020231"}
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-pannelli-solari-pemsa/","hash":"ee9ebfb8cfee64d518be97dcf8ab1d2155bd1ee0ab83a7eb996f0649f698f6cc"}
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-pannelli-solari/","hash":"258dba249ccf4fd3de8b29093b57797b736248923535c64b6856c72df63542ba"}
-{"path":"cerca-lavoro-svizzera/ricerca-montatore-di-ponteggi-chiasso/","hash":"4cb8c3a2d57c900a0d403fe68723ee78968af7d8f553f0c2fac89808067ceca1"}
+{"path":"cerca-lavoro-svizzera/ricerca-montatore-di-ponteggi-chiasso/","hash":"dfad28ff95baf59edebf02b736c5b9a07096938e789ebfe37fb684210339c934"}
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-ponteggi-lugano/","hash":"3bfad63697d35b269cbb5152e9da4a8c1716a4313834fb3013e68e40c56f17a4"}
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-ponteggi-pemsa/","hash":"db7b1580166a415e3cbe85f699453ba50933044eec01884ea87f4462eebd1ea0"}
 {"path":"cerca-lavoro-svizzera/ricerca-montatore-di-ponteggi/","hash":"3f16783021041c668749033ca407f8cf3d86065830b730486fdb0fee891f8901"}
@@ -41890,7 +41890,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-neuroscienze-lausanne/","hash":"cfddb98618f8403135b96192fb7b4a6b49dfd89c8626f0233a0b945ce50de1a6"}
 {"path":"cerca-lavoro-svizzera/ricerca-neuroscienze-zurich/","hash":"5d017cb26ac8e5e54045b48c1d4a4a372edb37e05cadc7c07108c97c6fc1d129"}
 {"path":"cerca-lavoro-svizzera/ricerca-neve-davos/","hash":"6ba9fe975fea9ec5e92c324dbe036ff424bfb5bea438c21e0fafaf190d5eb941"}
-{"path":"cerca-lavoro-svizzera/ricerca-next-chiasso/","hash":"bb8e76abedf4a0114992f2545a498fb90eb1697f209e6e11204b779d5886e054"}
+{"path":"cerca-lavoro-svizzera/ricerca-next-chiasso/","hash":"b980ae28bfe8e5f848aa4f16f621a83853f24be6df2662a42323cc1b4ccce7fe"}
 {"path":"cerca-lavoro-svizzera/ricerca-niagara-oberkirch/","hash":"9b4c489a86453e3c926f05d5bb31aa89d66c352695f8dca2d07d1701fc539c75"}
 {"path":"cerca-lavoro-svizzera/ricerca-nicchia-geneve/","hash":"028d4d1cadc3d82a9f6f855351c3b26735b39b9c3e22c0c52879c40b87fbdb69"}
 {"path":"cerca-lavoro-svizzera/ricerca-nicole-affoltern-am-albis/","hash":"7b4313d48880e30456d504cd7fe3eb3f70b639c3668de5db3b8f4f3c52e67635"}
@@ -42329,7 +42329,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-lachen/","hash":"6a5df9414b1aa5366d5d2d4c13acefe66c46cdbf7b558faa13946f3d4d27b62e"}
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-lausanne/","hash":"8536e4fc1c3c114d8572ae08e1fd0126ffb1ac366ea1e1cdf9cb3ed459d658b5"}
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-locarno/","hash":"ec20bed60b1af013dc9f3fa126a11ca43bd31c35e5db6e089df2bbfca676ef3a"}
-{"path":"cerca-lavoro-svizzera/ricerca-obiettivi-lugano/","hash":"134527915bf28fe06d980230131008c767712321388e7331f56127f8d76dd36c"}
+{"path":"cerca-lavoro-svizzera/ricerca-obiettivi-lugano/","hash":"fae651ee760c9e74067275651196a0dffaa180d37410dc5756faa9848e6b809a"}
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-luzern/","hash":"1c976b84112d145cdb1ed8d70256951f49a91b5e16df544f831f8ae51eeaf99a"}
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-prilly/","hash":"971dd8b201e745b01d8392777f263309e875cb10977ff2f5ff0dae75bac0b7d8"}
 {"path":"cerca-lavoro-svizzera/ricerca-obiettivi-renens/","hash":"2bcf8d50887d0b518a49d6930976a47274d7cdce8ab9b5ef26d843d3eef5ce9f"}
@@ -43080,7 +43080,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-automation-mft-specialista/","hash":"0f67643f43c84c00101c91e769aa51a0a3f35152b8f95e7c97917731df9b980e"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-autonomo-veicolo-test-operator/","hash":"0fdfb24392c413d58272a10f1d68b22974edad5658859e519043a591e75180cd"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-autore-tecnico-produzione-peptidi-w-m-d-100/","hash":"8107b0ee39a6c667b82972a5d33eb45f28aab2ed2a42f2dd36f822a83f7372cf"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-auxiliario-di-salute-crs/","hash":"6c560a040385b254f568ff7fd2a2dde843b8fcd1a2aaf4eb0361f273c8e46d53"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-auxiliario-di-salute-crs/","hash":"c97465cbd9044e3662aee1954fd83b8ab15053b8c742cb4f4244e5c63b44b113"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-avviso-legale/","hash":"6bc7b76b1c69431ff8b18bbaf213679a1ccfc857aeba3533d0d468469b5a6ad7"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-azienda-multiservizi-bellinzona-amb/","hash":"574792466e3a6e780d9467cd8d7a68818161e40deb1b552d699f0b88d1923c0d"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-b-f-tirocinante-july/","hash":"4765f13fb4bcd40dd14ea056b0f523e0c5d0964500901b0ffb853774f7fc2db1"}
@@ -44041,17 +44041,17 @@
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapeutina-ergoterapeutico-90/","hash":"6f220e216063600be1829ae952bcc86a90d6d87b45e528b3fe11bb85c5b04247"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-40/","hash":"c270635334704f6cbecb75864f00cb0faa8252dc05b46252a2b9308497f3bf80"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-50/","hash":"79244fb037a4cfdc937c4a79ab02ef60d35cd5749be9676305665b0bcd37a0b3"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-60/","hash":"569f0c4de9e9f815be85c955ca64e88c0d42f94b0058fb2b57bbee168574dd88"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-60/","hash":"379f7f33295a489654d0fa8c052bf75239cff3cabd61fb885605beeb5771337c"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-80/","hash":"f0732e28753c5b7dda564ee3ca2a63199418dc47eb96fe3cffcb15ab59027688"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-diplomata-o-100/","hash":"55ca001a49e94fc17f82d5a2126a956a2988077cb769c0d1c9fc775863da9f54"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-diplomato-a/","hash":"796028a470b2da37bafa4a33924ecf83eba1ef9e21c2363cf5e3a840f2a28260"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-60/","hash":"b0545d0a59bde13ebcdd1f1d404fa00810694f0ea6bb3414c754d0064a0e027f"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-80/","hash":"112f3258c2e0da9f0673d3833a2ac18795674b6dc9a920248df4e46651efdb30"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-u-m-d/","hash":"597c32823bd52ee807f371853e06240c300e1370dc497de00a36b74f996945a4"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-diplomata-o-100/","hash":"69239582f1b517d05c3168c9317b5861ad9871c0dc974b458423406cb2ca0fef"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-diplomato-a/","hash":"731baee87ed29bb97a1b5d227f96608867baaa1436a9330917d0359b139fecfe"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-60/","hash":"1fa9d83f7ffa4991e3533ac13827334156d0a5a7ecb1843d1fd7cb8f5dda42a3"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-80/","hash":"008a16bf3d405fd828496ebd4d52c25bab4940c5860270afefafcc0e3a2297cf"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-ergoterapista-u-m-d/","hash":"6cf7f15bfa70b04149c90089fa1b78c5ace9fe2b46c9925cbb5e25bba824d392"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-in-80/","hash":"db884883ffb2e3388888cc48bb272059ebad014446c16197433b220a67a3ab5a"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-in-psichiatria-ambulatoria/","hash":"a29efb732713871f62c8ab58d9dc22892ae5289200d728b6929a10c0e7ee21f9"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista-in-psichiatria-dell-ospedale-geriatrico/","hash":"c965f3738a387034ddf2b6314bad3ab4359a5864d506c7718a1a3083884d362c"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista/","hash":"f396ea0b5f0fc5cb2f3539286ba7ab034de46f4cac181946a520d4a4939940cc"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergoterapista/","hash":"4e64cbbfe0da44f66a55d273fdab122cd51564fd0222d45e9f4219dcd0f71b5d"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergotherapeues-in/","hash":"06e20d4e23644fb9714f2815b4c3d372e5d34a732f391d04e825c96de979c3ae"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergotherapeut-in-handtherapy-80/","hash":"41bcd2d1eba67950c40a836f0b8b6423716368347368ee441168740c00ab66f7"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-ergotherapeutin-ergotherapeut-p-m-d/","hash":"2a35d9737557685bf591fdbcb3cc4963d073a86483e972140881f57a256c3981"}
@@ -45193,7 +45193,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-ospedaliero-40/","hash":"e55cff72c7c62c13ad1b31838d09517813d1a53db1f3914d743dc20d7fcf0c63"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-ospedaliero-cura-pallitiva/","hash":"cde951ac0ac949246cab35d3060981a349b1e2638e5e4043b39b5e6ef6cd3713"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-ospedaliero/","hash":"8f5de907b906d66eefdd1c1b7f6b3544b0ffc0095edef45e45c7e0c08af81a03"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-pediatra-in-studio/","hash":"2da8dfee18ec465766db8f352a798edfd1484e75760d8b85404bca801ec50fa0"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-pediatra-in-studio/","hash":"aa808ca845fc0f41117460ca7c40d60c6fcc83991848a261519e387bbdff000a"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-primario-di-reparto-oberarzt/","hash":"f99ae9b67ea1adfc49100376fd88e5bfd5bd0fca0f38cf1334857fb2684e4695"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-primario-emergenza-e-collegamento-80/","hash":"f784c37e153eaaf0cc9c88041a059f366d741e1540bbcb60f49cd80c63b63a47"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-medico-primario-medico-primaria-psicosomatica/","hash":"2202ea97d3aa483908999101331a9cfd688360cd587ff23bdfecdf919dc734f6"}
@@ -46240,7 +46240,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-medizinische-codierung/","hash":"fb6103d07691c8123ddb018470c3728a8263f9d6afbe4588e080e972c66ba3f4"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-negozio-100/","hash":"dea99e1c78acf1c156d9aa9fa1ade80c897231763cd7225c5855ca50b72b69e8"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-negozio-m-f/","hash":"432784aacb8497bd5baa58aa29df05315a8c061545103764fbd0ee66ec5ea24c"}
-{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-neurologia-100/","hash":"99dd5811f92a348d516c77a7a5f0fec37adf2618043adbbb346eb87063ccecc9"}
+{"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-neurologia-100/","hash":"d1ddc303e3f63ff5047ec88cae8474e4381209606b600e9de3a73a8e72aa1e58"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-neurologia/","hash":"008d0f0c4d7ca2bc49d44c3a50e99b5f7fd27648560def45dd57e9494ce87b10"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-operazioni-aziendali/","hash":"bb421166c9f0d64b15668fd687a94429a2eba8b44f223b9865d7399dd500ed6e"}
 {"path":"cerca-lavoro-svizzera/ricerca-offerte-lavoro-responsabile-per-la-gestione-delle-prestazioni/","hash":"a56d6faac5bbab717a6b8df6718a2e543a95851bea4d3e15fdf0e219e0414454"}
@@ -48781,7 +48781,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-davos/","hash":"f76396c18c07392558a1ebd6430db7ac4921e29361533f4834aca7f2caf8f906"}
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-embrach/","hash":"48c63aeb811a103d4c5256bb95ea1c8a89388ae64a77e7746500547fa33d1df7"}
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-liestal/","hash":"e36d37c36c646891e1cf6622b80466b1115b924425abea8f0b4aa8d2e0d447e0"}
-{"path":"cerca-lavoro-svizzera/ricerca-orientato-lugano/","hash":"e932d9f1b81727665121e0ec9fe4d54b6cf94ff872e44ee3b947f4fec84b1164"}
+{"path":"cerca-lavoro-svizzera/ricerca-orientato-lugano/","hash":"aa93e46273cce1c07d968418ff3bc0655fd023c3d21a242db60b1f114f6a319d"}
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-luzern/","hash":"a4083df2419dd546118b244ca743d9fcaff96cca5806da16db2ee0f8b4ec0b08"}
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-munsingen/","hash":"33e72b5442bc29cb46804a130430a4a63a4da25f4ece4010537a7a9bc0e2ba3f"}
 {"path":"cerca-lavoro-svizzera/ricerca-orientato-olten/","hash":"93ce504d51168c6ef5d5b4e74f8eb99db776da174bd4013e78d3a41c77a0efe1"}
@@ -49174,7 +49174,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-otisline-otis-sa/","hash":"967fe5517fa39fc5fcecaabf4831126f450fceaaad7c9e2f603b925b9419a3de"}
 {"path":"cerca-lavoro-svizzera/ricerca-otisline/","hash":"63a3273450a788627b37c30f48400a728ea51a003b497a434e7bb313c569cf02"}
 {"path":"cerca-lavoro-svizzera/ricerca-otorinolaringoiatria-bellinzona/","hash":"c2af1b2ac37c78be9c2dd5b60ccf7ecf772779411990072eb32796d90479d95d"}
-{"path":"cerca-lavoro-svizzera/ricerca-ottenere-lugano/","hash":"056de8c55ea57b5a09e8e799b490c2f9584251e838e54b89d8fe988a4d41061a"}
+{"path":"cerca-lavoro-svizzera/ricerca-ottenere-lugano/","hash":"c3332435871fedab9da78eb2308229d3e0bc2b8335610b49fc724fd33d020db6"}
 {"path":"cerca-lavoro-svizzera/ricerca-ottenere-studen-be/","hash":"358f0995354cc7c4b5afd19f335d7a4b6b0371ff39ab32db2df8f70ec16387d3"}
 {"path":"cerca-lavoro-svizzera/ricerca-ottenere-wattwil/","hash":"85204f4a6382a7b82acfa0d9fea4b04174982c3cb0c2f500776554dee792e87c"}
 {"path":"cerca-lavoro-svizzera/ricerca-ottenerlo-chur/","hash":"af84abdd3b111a2795908aa8bdf12e34b80989659d76645e63f195f8280a070b"}
@@ -50014,7 +50014,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-patch-bussnang/","hash":"1ea13d80ac2583fbe57639f949dcf0fa64d96c01847d52ab29608c8b2297481b"}
 {"path":"cerca-lavoro-svizzera/ricerca-patente-baden/","hash":"55a1faed8ca4f885fee7855f94cb7001307219e70a34c821ae229c4a61a5816b"}
 {"path":"cerca-lavoro-svizzera/ricerca-patente-ittigen/","hash":"cd693ae3382b86fa77d237e6a5ec1d9652fdd6ef56bf8fa6a0c23d0ad53d55fb"}
-{"path":"cerca-lavoro-svizzera/ricerca-patente-lugano/","hash":"a02b309fa831896e03ea3c3e09160a1fd2ee5cb4922f236d2c0c44f81423a690"}
+{"path":"cerca-lavoro-svizzera/ricerca-patente-lugano/","hash":"e8810347dc79bc756bcfa26a237780d11c63201f15627ce4a29454aa66d74be5"}
 {"path":"cerca-lavoro-svizzera/ricerca-patente-solothurn/","hash":"d233ee180a656c154f52b599f9b4b5de6241d8585f7ca5aff1aae7f7b48ca99d"}
 {"path":"cerca-lavoro-svizzera/ricerca-patientenadministration-schwyz/","hash":"e354a1cdbe0d302c8b26bc7aef5b3fa51213ada5188a8f7ce801abcaca3609d5"}
 {"path":"cerca-lavoro-svizzera/ricerca-patientenaufnahme-basel/","hash":"bd3ee9eed706e9ff610524f6ec416004af357d80f814d741833b64b8f0c40365"}
@@ -51559,7 +51559,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-plc-programmer-energy-technology-tutti-bkw/","hash":"83b7cc77fb99ed8bc862386b0c026b7faad1dca609b641a337bafefd29b87a00"}
 {"path":"cerca-lavoro-svizzera/ricerca-plc-programmer-energy-technology-tutti-winterthur/","hash":"c09745f0d9769d7e3a9faefbb8474be719fdac02158cf7c78a8a3a5327b07123"}
 {"path":"cerca-lavoro-svizzera/ricerca-plc-programmer-energy-technology-tutti/","hash":"0af7ecd014509ba01c8567bfb1c561725a1ae0a5bf1ad8c54300e144b341fbaa"}
-{"path":"cerca-lavoro-svizzera/ricerca-plsql-chiasso/","hash":"bce55c8c9ee27da5381aa7bab5e1b2756ae3d6c2356922b1edb4d15d376cce4a"}
+{"path":"cerca-lavoro-svizzera/ricerca-plsql-chiasso/","hash":"ad02879eb8f64a47fa0c8c710019c2634e667707673cacf8087eeae31d53b31a"}
 {"path":"cerca-lavoro-svizzera/ricerca-pluriennale-frauenfeld/","hash":"83a326f2122ff85a4a593db2095a8114e5c98e2f8c3bdb42337c32450c036d1e"}
 {"path":"cerca-lavoro-svizzera/ricerca-pmo-aziendale-esperto-di-operazioni-aziendali-lugano/","hash":"f8cfac4f5ae185c64994a01a3baab4622478c25a287a819cff985a4c2a07475b"}
 {"path":"cerca-lavoro-svizzera/ricerca-pmo-aziendale-esperto-di-operazioni-aziendali/","hash":"0e98e4a410f839d99c9659cbfd1cd56f2a3fd233e47d72a81def21ad3792dfe0"}
@@ -51734,9 +51734,9 @@
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-bern/","hash":"597bccc07c3c145737faf9a78ef64788c64bfb70f760e25d518f6065a2258eb4"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-dubendorf/","hash":"977d88afce1c61655e1d8f749bc8ad09e2dd6538e32bbb80a28b83a95549c349"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-geneve-geneve/","hash":"56fffd9c27bb741b5f12275f5ef9436a29fbf72fa06bf037282e9a3e214fb8d1"}
-{"path":"cerca-lavoro-svizzera/ricerca-portafoglio-lugano-ticino/","hash":"bab2cb1ec4d92c1abba917a534fa42e767c715f6aa944f3a388579df0a25e80a"}
+{"path":"cerca-lavoro-svizzera/ricerca-portafoglio-lugano-ticino/","hash":"ce921ae52f2a0f0ca4da49bef9f2119d6676f797fdfec25a0f061474dd5122ee"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-st-gallen/","hash":"5eec7b7184e8a28b00dc4bb98dc0622df36792c53a1de7bfb2669b29b8e19baa"}
-{"path":"cerca-lavoro-svizzera/ricerca-portafoglio-ticino/","hash":"c665597018a106e0c21600787f62c960d8db298057b3da8f785ea68325ed53b2"}
+{"path":"cerca-lavoro-svizzera/ricerca-portafoglio-ticino/","hash":"ba439226aaacbd7b746504cd02fb8778e99a683fe6916da5aeb0d17b8c21ebd0"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-uzwil/","hash":"1282c61eaf99df5901dd39047c1ac38c51e97821c7ee71b6a4c47318b99416fe"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-zermatt/","hash":"b16f4caddeda6f9becb8a36fbf0d3d0e3442b93b4d2f619bd097c0fd54171d29"}
 {"path":"cerca-lavoro-svizzera/ricerca-portafoglio-zollikofen/","hash":"debd8c48d2fb1eb0d0cad7ae1c4c546fe962ed76e980e1af1d92467dd218c630"}
@@ -52250,7 +52250,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-langenthal/","hash":"00e1d337bc026b63f9c595c3988ab385a1a0bdc755fd3b4f378a4a7dd15d76df"}
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-laupen/","hash":"93d4903a2eae76b1244f6ae83cc4c1ee7f145920d7ca7f4c4a8a8df6dc058c47"}
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-liestal/","hash":"c86fe4e502513a5a1825d8d291fa699c51ed0f1fc81d1239c5ff6887cf715fa4"}
-{"path":"cerca-lavoro-svizzera/ricerca-pratica-lugano/","hash":"58cb9494628a96beeb83f7da462042c42544ee0f0db0e07c128c16c516907fde"}
+{"path":"cerca-lavoro-svizzera/ricerca-pratica-lugano/","hash":"a223c3b24f3c025c778813cff92b54ac4fd3f1b62c55314c2b59829993566176"}
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-luzern/","hash":"afc86f8a4c0b935689834e6b2a3c4fdff7b823ce2fd918a76112f894661aca50"}
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-moutier/","hash":"d885dbc1053bc65a722b316da28d35cb8eb585bb136fcabf144aab5f8297f0d3"}
 {"path":"cerca-lavoro-svizzera/ricerca-pratica-neuhausen-am-rheinfall/","hash":"1fe0abcf9287764ff3987c3617dbbcc11749dfb99171390ba1f77c9d13f27aef"}
@@ -52482,7 +52482,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-bern/","hash":"6fda8158ec966c7910bbeed101d99701d612d37733aa7607a6fbc6aa6a1e82c8"}
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-biel-bienne/","hash":"7dd7471b7633ac4ec282201aca16e9867c4402f033a41f36034354e43b73e9c4"}
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-buchs-sg/","hash":"0d1e5ce032c88af16afc0b6e35ab57efd004b7815ba9c5f9945d226a7ba3e808"}
-{"path":"cerca-lavoro-svizzera/ricerca-preferred-chiasso/","hash":"3885a635d3c1e4a5079fee0ef40cd8924fa2e5d792f12ccdedef0d6a6fc42a13"}
+{"path":"cerca-lavoro-svizzera/ricerca-preferred-chiasso/","hash":"647ee1ce0270effb59bfb51b25dedd18339f6ff50657172b71b09e9f54f2a6b7"}
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-crissier/","hash":"a5238877bb205ae374b148df8f4c0afe66814b92a1df4269b5e78c0a4004e92d"}
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-dielsdorf/","hash":"c3dc80d5fb63698d7336318a27810009dc0855f0f30f612e5ebcb454f26a9b81"}
 {"path":"cerca-lavoro-svizzera/ricerca-preferred-dietikon/","hash":"e9b6330bcea8d2b880fbf8a12c132822b5a15ab6ea7b01df1e5ffba63fa306bf"}
@@ -53160,7 +53160,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-process-ingegnere-upstream-manufacturing/","hash":"000768acc17d23fc0eb5502389b3e075f2d82bf017de80677ee94e4607c2c08d"}
 {"path":"cerca-lavoro-svizzera/ricerca-process-ingegnere-uzwil/","hash":"da6e629689f113b2097d352b9d929841dc73fe2285e855c957eca05941af23c0"}
 {"path":"cerca-lavoro-svizzera/ricerca-process-ingegnere/","hash":"4e2ba1e355bb036fb1606bb946ad776ea3bd45975d7ef8856841b7d6f65b6d5e"}
-{"path":"cerca-lavoro-svizzera/ricerca-process-lugano/","hash":"2796091c62c992df0847501df6232e334d05c22e48b382a5d9e43ee9532f6b4b"}
+{"path":"cerca-lavoro-svizzera/ricerca-process-lugano/","hash":"5e123681c380484fbbe3a134737b6ffded9dbe0844000c82bc0598e6ce7e3111"}
 {"path":"cerca-lavoro-svizzera/ricerca-process-quality-specialista-80-abb-svizzera-sede-ticino/","hash":"d03921c083b05329248c0b82ff400affbc6e10c694dfd0e7a42486f1ed4aef1f"}
 {"path":"cerca-lavoro-svizzera/ricerca-process-quality-specialista-80-quartino-ticino/","hash":"121b7c3d5f8acc110afcd0a2070e0d845139a7e40974dd5d516cfd9c3d089d2d"}
 {"path":"cerca-lavoro-svizzera/ricerca-process-quality-specialista-80/","hash":"4314116b29f712c42b3e2255a75662edf34b48aaf077a8ffb79c9cab628416a5"}
@@ -53226,7 +53226,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-processi-lenzburg/","hash":"e0a0ef8d331461a4e816b3cd1471aab6c2843a802ae47fdc6fa3506d487f12ed"}
 {"path":"cerca-lavoro-svizzera/ricerca-processi-liestal/","hash":"690cc226e6ae02381750f8edafddda0d1ee31f36fa2862674b1330ff86f66007"}
 {"path":"cerca-lavoro-svizzera/ricerca-processi-locarno/","hash":"2a83b3e955cc71d971b05e1dfd4f81e9f486f1240303518856efb97fbc5f8110"}
-{"path":"cerca-lavoro-svizzera/ricerca-processi-lugano/","hash":"ebcc38ca24f55f2f12838d0e40325bb20c36e7e53f0eb5e82b2445632bdda531"}
+{"path":"cerca-lavoro-svizzera/ricerca-processi-lugano/","hash":"9e1102287d64287ac62f6ed456f54e7e2df270bf3b05ffd741dc3d5c699031d7"}
 {"path":"cerca-lavoro-svizzera/ricerca-processi-luzern/","hash":"ddcdb2e3f404c77eab03ad3500e7670ecaa6e7dd724f30f965452fb9f75a449e"}
 {"path":"cerca-lavoro-svizzera/ricerca-processi-mannedorf/","hash":"098a90da6cac663b4f8cdee8efaf13586b74aed54ee9185b444a20f1a1059b69"}
 {"path":"cerca-lavoro-svizzera/ricerca-processi-martigny/","hash":"ff8edb792f6c6050c467d8d2bf4d209daa3406380a2d1c4593c2060c98825f31"}
@@ -53343,7 +53343,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-processo-lenzburg/","hash":"cefefcaa20d4c37982d23d9e293755874ae39507d2bdb4180c1919b49cb91290"}
 {"path":"cerca-lavoro-svizzera/ricerca-processo-liestal/","hash":"89cc2fa66d07a15b731a939de4e51b56c1df4d8366d2e618bb56461eeb588c7d"}
 {"path":"cerca-lavoro-svizzera/ricerca-processo-lodrino/","hash":"3fd9b38ffe3a5b161615453b26109a025c3b4ae3fc046733fff7a362cc535b98"}
-{"path":"cerca-lavoro-svizzera/ricerca-processo-lugano/","hash":"4f490b5b520041443a6885864c3ad89cc136a6fd589a6905eddde4e49a063bea"}
+{"path":"cerca-lavoro-svizzera/ricerca-processo-lugano/","hash":"478e08e5845c99b9dea7a41f8899358f7b15c10ca21b0e3f1cb8455112088d18"}
 {"path":"cerca-lavoro-svizzera/ricerca-processo-luzern/","hash":"daf11b9131956b419d63582f4b91fda8cdcea86777e5fb21ce4bfc9bad66ff7f"}
 {"path":"cerca-lavoro-svizzera/ricerca-processo-manno/","hash":"88b1d6fe7f97675f61236eddf0348bdc4b97a80ccf7e3c81a62f52c1a6f51f0d"}
 {"path":"cerca-lavoro-svizzera/ricerca-processo-monthey/","hash":"147bf12573bea110b16a6e8fb5ba770b427033665c528e6ae333e149e09ba76d"}
@@ -54973,7 +54973,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-arlesheim/","hash":"dccf77f25f7a7abc2f2f129e9e78e2c994727be4c84d98d0a4984906559cc210"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-einsiedeln/","hash":"be9405e88db3fb491e60fe64fd9102a117d3b46dc84858250e2ce2020ea5ff02"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-fribourg/","hash":"160c60ff0e519d03e0c792a20401c9219cee0351c716b9f4205a60633c11963b"}
-{"path":"cerca-lavoro-svizzera/ricerca-proprio-lugano/","hash":"11c9518fee51229f6b39e3bd18a67382ebd8005a70d0d3bbfb516d1475dfa050"}
+{"path":"cerca-lavoro-svizzera/ricerca-proprio-lugano/","hash":"7b191c7a43ee32b48bb19e5b5ba66e44fff4f249b56f21303db85bb146940ae2"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-luzern/","hash":"027cf8f3310b7b7a3d89cca5773db798bf3eba25377fe2e2ba4cf02fcfc39a48"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-morges/","hash":"6f4e308396423211a944eefdb630548c19556f8eb9e3b8f1b19c74b48d9169c9"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-olten/","hash":"2dde5616962675fae03a81959955a339b566a878f350e6ff3b7dde4212d47d85"}
@@ -54981,7 +54981,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-sion/","hash":"e1cb0aaeba9b90baa4e3e35fa26f962913e3da78360528f0b50192e5d8d599e7"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-st-moritz/","hash":"28cd2c9b13926cee28754caabc9375018502212a5c3aa9b6203e47a8614b71a1"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-sursee/","hash":"a0910573c234d2b9b700a0030aeabbaef69430defed37150baf984237215195a"}
-{"path":"cerca-lavoro-svizzera/ricerca-proprio-ticino/","hash":"691574f85d918c95c88d84eb9b99cb88ccfe8b55ba7b519715f8fda72bcbc47f"}
+{"path":"cerca-lavoro-svizzera/ricerca-proprio-ticino/","hash":"dc796b65d7495ba011c40c604524020a14070f276cff4b2e782221bde0532ac7"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-uster/","hash":"f93ea674d371e4b926842d32f37c806bf8ba8cacfe1e9321522618f8fbb7d7c7"}
 {"path":"cerca-lavoro-svizzera/ricerca-proprio-zurich/","hash":"a65681307b5c99cf388912220eb61b7031ae303576b7d3d0df6d01bcb233bbfb"}
 {"path":"cerca-lavoro-svizzera/ricerca-prospettiva-crissier/","hash":"92fca1122bdebaa11c867d64db77c476f7f29d0d10138204dbeb3e30503adc3a"}
@@ -56294,7 +56294,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-bern/","hash":"704daca95b7c1cb299cc819bc174f04b62f045314393f34f47cfe8cdafa679d8"}
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-kriens/","hash":"147e54b4361f7385a1f04eb1d3fc071a9e6ecabebe6b4c17cb8c86cd09135df8"}
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-langenthal/","hash":"2a5c72e84c826fcaaf99dc93f3f073338645467a8b5a303ea92eb2ab7dc25c8c"}
-{"path":"cerca-lavoro-svizzera/ricerca-rapporti-lugano-ticino/","hash":"520e99147a947513438680cb8e81d1ee331fb972d5ab010f81208ebfb3d950aa"}
+{"path":"cerca-lavoro-svizzera/ricerca-rapporti-lugano-ticino/","hash":"c2038094cbdf2978578c938e5db21a8d33a2e44fedb2a50de3e166b5b75fa176"}
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-meyrin/","hash":"9b29aba8c017eb3419564f23b818c6cd58c600ad2c478eade78a277b78ccd455"}
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-sion/","hash":"3999e6905c858a943cfd2ffcebada41efa6866818985dfad79b91f1b8e997217"}
 {"path":"cerca-lavoro-svizzera/ricerca-rapporti-sursee/","hash":"bea18abc5a17109515f83de1e9f7d1a5f14de8822bc3afc95820949df5415e43"}
@@ -56375,7 +56375,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-rayonleiter-in-nonfood-klosters-serneus/","hash":"2cae28893b43d48063d85993f1f9648f100451b068cdf4710132aca6e257c058"}
 {"path":"cerca-lavoro-svizzera/ricerca-rayonleiter-in-nonfood/","hash":"d126757da80490a1daaaf9dac8189b4c40787a8c58a0220b1d745e61dd9c3ae5"}
 {"path":"cerca-lavoro-svizzera/ricerca-rcvs-visp/","hash":"be883224a8700e9ac69f096389a8eba671e80ba9464861318236c73ff0cfee16"}
-{"path":"cerca-lavoro-svizzera/ricerca-react-chiasso/","hash":"2b5534f00c208db10d0dc0fdfd18cb0a348ae7fd8163595dc209cc166731a0cf"}
+{"path":"cerca-lavoro-svizzera/ricerca-react-chiasso/","hash":"74e2b39805f4414916e19552ba257a2fcd0e7decaf2c7d77212cd25c0ccc1902"}
 {"path":"cerca-lavoro-svizzera/ricerca-react-native-sviluppatore-wallet-team-tether-operations/","hash":"2c38766eaff29b115a562f3b9af3a4f183532d3e56105d2bce2bad25c8abdcdb"}
 {"path":"cerca-lavoro-svizzera/ricerca-react-native-sviluppatore-wallet-team-zurich-zurich/","hash":"7287be4d9ef40e0ba46b5bd0fc141353319663fb1d04af19bd1c42af9cb4d648"}
 {"path":"cerca-lavoro-svizzera/ricerca-react-native-sviluppatore-wallet-team/","hash":"2de93945c919a39385f5060ee2a46c918f44e9975581bb6a4834a23b5250a198"}
@@ -56721,7 +56721,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-release-zurich/","hash":"94dfd71946baa8babb52bc0a7c6f7d0c02f6c83f8635587479fe01a24e99acb2"}
 {"path":"cerca-lavoro-svizzera/ricerca-release/","hash":"67ac5ab2fea8a4f25a04ed800924cecd7a50fba25cf7b5e6db56b0095bdecc2e"}
 {"path":"cerca-lavoro-svizzera/ricerca-relewant-bellinzona/","hash":"98ec9208f5d58a71837e797f49c3f7021a73a5f67f72a6cb436747b6b1419e9e"}
-{"path":"cerca-lavoro-svizzera/ricerca-relewant-chiasso/","hash":"f09951efc536c87e8619697efefa8b9d212424cb765ec1bb45650106d3b7158f"}
+{"path":"cerca-lavoro-svizzera/ricerca-relewant-chiasso/","hash":"ad068e285de21428fe59c98fb49241f4ffdc768f0ca7acbfb52479cdc6cc92a1"}
 {"path":"cerca-lavoro-svizzera/ricerca-relewant-lugano/","hash":"7b76c4e6bdc1a426df6ddbf68ee9f041fa26bfa22e49e6f84228aaa9a6abd113"}
 {"path":"cerca-lavoro-svizzera/ricerca-reliability-zurich-switzerland/","hash":"e4d4ae8a14bf32d9b087f54adde6309f35cbb49fa74716d1c84e4a994ebf32c5"}
 {"path":"cerca-lavoro-svizzera/ricerca-remo-schwyz/","hash":"2cc7fe5c815ddd881369a7bdf1258898811b0da8d9cea2fa555b1772c6e0e84f"}
@@ -57057,7 +57057,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-chirurgia-80-gzo-spital-wetzikon/","hash":"a65f008cb0d7f35d9caca9c462a036d4771c70f52efafae65538e7e138981699"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-chirurgia-80-wetzikon/","hash":"ebf0fceb3dc90604cce98c8362d47d00e38a4a8cb86b930c13884eb064cc9a32"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-chirurgia-80/","hash":"df5d78c5cf3db032aa610d9a33e1a703db14adc0868edf42996a711367a827bc"}
-{"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-con-o-senza-titolo-di-specialita/","hash":"a23e9339b4f00c7bb270138f661242758f6092714b8337fd21c8dba53fa89381"}
+{"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-con-o-senza-titolo-di-specialita/","hash":"5fc87ce22fd6395b4cd6c6bb3f0ea9e88f4126fb9fb8a74407b3850049b64318"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-con-specializzazione-geneve/","hash":"4e632f34f7ebb8f8fa27729901c6f48cd7370d76fe79812617943674cd5b29a3"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-con-specializzazione-hug/","hash":"bc627886682ef33deeac47bde60c34f051322d998a829023a89236e5d94af046"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-clinica-con-specializzazione/","hash":"dcd2d985d8576c4808285f3c7145420006fae3048e0713f65ac86deafd435451"}
@@ -58360,8 +58360,8 @@
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-negozio-regione-kloten-f-m-d-volg/","hash":"3726e8bac998ea8cb9610799b925c4e25f4dfd66f37322ed2556fd614217fbe4"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-negozio-regione-kloten-f-m-d/","hash":"ab51d14d0de0e93ae1a3381683755440d86649b095e5365f943dc4970035e77e"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-100-gzo-spital-wetzikon/","hash":"d18e45426bd7fd307ff8cda4ef2332a7ce9b1928575cdcca1ee473a476b19a44"}
-{"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-100-wetzikon/","hash":"0ae53bf5b55355f63ab6a76db87b7097de5df0835232f1cf7a841f203ac4b0f9"}
-{"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-100/","hash":"d17d52dd7df2f71ac8dff4bf10c500bdd4da9dc0a13307ec9bca7158830f0132"}
+{"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-100-wetzikon/","hash":"59a5f4b01eb1cde204509b5ffdc9b4308833e90174d113d8df1600114f7cc6eb"}
+{"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-100/","hash":"bbdb90b5ec1d05f49b031f76282dd54525c84012c43ba3112d17f1564864f6c5"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-gzo-spital-wetzikon/","hash":"5f164586e3dac2a16d542792c7b5acc2355127c5fb72f272d31ded157959a0c1"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia-wetzikon/","hash":"8e5d1df8daf0a508c1fa2c46f313bea88518f15d2baf4673b8636dbf5490f283"}
 {"path":"cerca-lavoro-svizzera/ricerca-responsabile-neurologia/","hash":"770191c828ecf270e9341471ced43751cc5989cac38ade97d74d033113fa467f"}
@@ -60196,7 +60196,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-roger-meyrin/","hash":"3859f33651f4cff118551acb4c78a0b12a931b531bc9c6cf27dca621e75f1f0d"}
 {"path":"cerca-lavoro-svizzera/ricerca-rohs-mannedorf/","hash":"403eb80346755c450e44e11400bbc36923622735d48e66ab3b0c64a2751ac88f"}
 {"path":"cerca-lavoro-svizzera/ricerca-role-lenzburg-switzerland/","hash":"ee7fe0803bb92b17b88cccfd7f03c4b35b0bba84b04e509fa6103b05838c1cc6"}
-{"path":"cerca-lavoro-svizzera/ricerca-role-lugano/","hash":"f0ebf02412e804d8aac4db4595ba4f9a83c19c28f89529ca79166b30602060e4"}
+{"path":"cerca-lavoro-svizzera/ricerca-role-lugano/","hash":"57825edc661f6ed597f8e1d0a3f8c96ba3b7329cfccc67a2b1502fa0a010ea57"}
 {"path":"cerca-lavoro-svizzera/ricerca-role-ticino/","hash":"de07e2690aa715818ca5b743b6860aca06deb2386fff2df5d87e23046c6a03d7"}
 {"path":"cerca-lavoro-svizzera/ricerca-rolf-luzern/","hash":"8d4004881fa2ba01fe0ef9d45867752ee1956f3b74512c83ad89062bbfb10c10"}
 {"path":"cerca-lavoro-svizzera/ricerca-roll-zurich-zurich/","hash":"b1df1fb4dd979a5b4d6d1ed1d17882dba05b07ba68e4899083367fbf4b8b5e9d"}
@@ -60355,7 +60355,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-salario-urdorf/","hash":"c62d38660cc065ba607b72bc7701d148eb7d5de857a9e54bfda84a95ee3cf17d"}
 {"path":"cerca-lavoro-svizzera/ricerca-saldare-safenwil/","hash":"559918703d5774ff0af5cf18190d367ec42be36dcb1e6b140044a2b3aa965623"}
 {"path":"cerca-lavoro-svizzera/ricerca-saldatore-bellinzona/","hash":"326afc8118af95a3d42fb0e1d959e0faed2f55794fdac6f0b957113d7ecf37b0"}
-{"path":"cerca-lavoro-svizzera/ricerca-saldatore-chiasso/","hash":"947c844c8f603ef942f563b36394f369f107012167a060dac411e53708131621"}
+{"path":"cerca-lavoro-svizzera/ricerca-saldatore-chiasso/","hash":"6eda7f4afc604f3ae502a8db34635bc5dc89a0f7e0982fb0063bdcd33af0f36e"}
 {"path":"cerca-lavoro-svizzera/ricerca-saldatore-locarno/","hash":"d02a2eff7796be1cc2f567811edf10bba41ad9bfc3bf32c6e410963032eea0a6"}
 {"path":"cerca-lavoro-svizzera/ricerca-saldatore-metalcostruttore-chiasso/","hash":"6eb674d487fc85a8c968ba64d98fdfaf0c4b0079b617ea09534b90f4de3c0a92"}
 {"path":"cerca-lavoro-svizzera/ricerca-saldatore-metalcostruttore-pemsa/","hash":"ef9ba55ac3d8a9a0aae865bfbac788645f562fcd82a7dc4d0d9cc102d8d63160"}
@@ -61872,7 +61872,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-sede-lausanne/","hash":"1fb709d8e4aac9d21be3200c2866819460e137e2dfdf226325b9844f222daf72"}
 {"path":"cerca-lavoro-svizzera/ricerca-sede-lugano-agno/","hash":"92d533ea26e75a2d5bd10894aa7724ecda15dfc3202f7afa6c993508fc25e81e"}
 {"path":"cerca-lavoro-svizzera/ricerca-sede-lugano-neggio/","hash":"b54a42feb22e6fd5ac8c1ce7a3419543721a14d4d84e31654a63c48a5c269ac3"}
-{"path":"cerca-lavoro-svizzera/ricerca-sede-lugano/","hash":"02eb71c90c467eaa1db789aa63c42ca18a899e8507b373ac5d7b16d3c391935d"}
+{"path":"cerca-lavoro-svizzera/ricerca-sede-lugano/","hash":"8ecb4d0aa67023afa3b028933a33cc2a31953e1b1bf0ea8e804ce756b8cc7ff0"}
 {"path":"cerca-lavoro-svizzera/ricerca-sede-lumbrein/","hash":"f373f9a7d18437f32a3ff0437d97209e0066a1d83e41405ad35c4ac6674717dc"}
 {"path":"cerca-lavoro-svizzera/ricerca-sede-mendrisio/","hash":"5f14b3e186f60b31ec7f423de05280b299748e772a6d69be094c2f2b8806bb7e"}
 {"path":"cerca-lavoro-svizzera/ricerca-sede-neggio-agno/","hash":"cfbfac7a80c3df66e7b7a2c95a46507398b771bba705c9b1a013a77ef2baf23f"}
@@ -61902,7 +61902,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-chur/","hash":"633aafa1468051b8b3a271a662d641c2b5685fa4c24ef33a5bf293b18fc5d2e8"}
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-givisiez/","hash":"75ee19e39df50091a22624d064b7789ec27dfe5fe2f7a153614a5638af537d72"}
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-liestal/","hash":"0354c5a58226c112d67ce62c1a32df91e91421618cbe8eec552bb0c4bceba3ac"}
-{"path":"cerca-lavoro-svizzera/ricerca-sedi-lugano/","hash":"189762f062de9d69810a5495955eb7b90fa22e872215f66e5db64f35526cde89"}
+{"path":"cerca-lavoro-svizzera/ricerca-sedi-lugano/","hash":"181732f873a9b6020470a5f7518e5cc352caa0f0b63c15f398b2c710f9a72717"}
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-luzern/","hash":"4338ed41eef417351fd792042454afa39faed3a0ae5a44815c823770e858bd2e"}
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-olten/","hash":"70655d83ca378bdcf3e1cf53072dcf0eda77ee36f3be6467fe0d3ac96b9f8b20"}
 {"path":"cerca-lavoro-svizzera/ricerca-sedi-romanshorn/","hash":"6c46d27defba3dd67e93929d158e5de39762dcf85b2ce6d4e3079419ef97b4c8"}
@@ -62004,7 +62004,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-di-stazione-al-100-uznach/","hash":"d1e4ce76596b67ec99184dd6d653564d56261ee28422be81f536f3d5e1faa455"}
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-di-stazione-al-100/","hash":"2bfd601b56f1dbf426ec6a457ccce13d8b6b23a1ed55d2c64302a6c3252d5e3c"}
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-di-studio-in-urologia-60-baden/","hash":"e6b055c6631b7f9958afb6efc61cc6ec1444a7f49a7aa288f3070ab451c6ea22"}
-{"path":"cerca-lavoro-svizzera/ricerca-segretario-a-di-studio-in-urologia-60/","hash":"6ba1560b4cceb8d68219e7c81defe5d5b222baeff2abfe200438a496f42e860a"}
+{"path":"cerca-lavoro-svizzera/ricerca-segretario-a-di-studio-in-urologia-60/","hash":"ff974487342ec961b6fb8b29ea73640701c30a7c47886b8e9c2fc1478355fe6e"}
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-medico-80-muttenz/","hash":"ff80a81058c7e32370b633ad1ba8b2adfb4dd2063f87e9d25d7b295d334f68a8"}
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-medico-80-rennbahnklinik/","hash":"f47458135aba1a2499ca480519e309217b6fa3ba2ee661e06b650c7e5d25ec09"}
 {"path":"cerca-lavoro-svizzera/ricerca-segretario-a-medico-80/","hash":"685930ebfc29cdb1a6aac6eb1ea939b5468af2b6c6719bda513bd5caedf42363"}
@@ -63081,7 +63081,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-settimana-ticino/","hash":"46daffe3ce07afad18bea391f10bfe8a1353d2a6fff60a19e4b969e841fbe834"}
 {"path":"cerca-lavoro-svizzera/ricerca-settimana-zurich/","hash":"cb9f26a49f3d153231d4cbef46601d574ecdfe01a6d2b65b2d3feec1b8302aae"}
 {"path":"cerca-lavoro-svizzera/ricerca-settimana-zweisimmen/","hash":"f13e34a8dba253656b8c6f3ea77ca8a923adebd17bff51dc63910a237298df24"}
-{"path":"cerca-lavoro-svizzera/ricerca-settimanali-lugano/","hash":"027dfde712bb5699fd749c029caaac140bf44b3beda02197c1939b4b1bfd036f"}
+{"path":"cerca-lavoro-svizzera/ricerca-settimanali-lugano/","hash":"ea8e38d16a4b5b689337d2cf1999cb84d1407992901953b71b107916d35d3948"}
 {"path":"cerca-lavoro-svizzera/ricerca-settimane-aarau/","hash":"c18cf67a47f6646e07ac880e47756ca2097214d9ce7f7ac57766b6ebb50ee3a6"}
 {"path":"cerca-lavoro-svizzera/ricerca-settimane-aarberg/","hash":"57b1472ab79fcc25481af272cbbfda691d19ebcacaf5ee48e05f328ea2d98313"}
 {"path":"cerca-lavoro-svizzera/ricerca-settimane-aclens/","hash":"855cec483d9918baa614b8954eb34efe2aa6336f4b2ceceb546e03a6d8e86809"}
@@ -66201,7 +66201,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stabilita-bern/","hash":"e100d324782edb4a8a3a9ba2dd6fab1347bc899560f625c0fa8cd7d97ca03059"}
 {"path":"cerca-lavoro-svizzera/ricerca-stabilita-zollikofen/","hash":"531c8f663eac5c5f2a98c249369c1f0eca79fc8f4c20396f427a5805bcf102ad"}
 {"path":"cerca-lavoro-svizzera/ricerca-stabilita-zurich-zurich/","hash":"f88f0bede16b7a1f7afae594bcb80f5d072866324b7f03d167d8dd180681d3fa"}
-{"path":"cerca-lavoro-svizzera/ricerca-stack-chiasso/","hash":"c28302682bf3d0dc62274f7004a834abe1c7650471e23915480433b45ccb4231"}
+{"path":"cerca-lavoro-svizzera/ricerca-stack-chiasso/","hash":"6941c8da6f286753de12faa4367972ba2ce653f80e14768ceeea3711d258d44a"}
 {"path":"cerca-lavoro-svizzera/ricerca-stack-lugano/","hash":"69dc433949e915b9e59f87efa1c8d786370af31049e75e1c613f9aa2e37190b7"}
 {"path":"cerca-lavoro-svizzera/ricerca-stack-zurich/","hash":"39f0a53c0bd605b69fed8c268d9c41e950591371386835e0dadfd6aa58bad4a0"}
 {"path":"cerca-lavoro-svizzera/ricerca-stadelmann-luzern/","hash":"618a4a7f70ec1899d649c0f8ff10325339ff4b159284e6c9003d738865e7d448"}
@@ -66702,7 +66702,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stato-camorino/","hash":"204f20c8e06f3a64f1e625a2dc62080c2822ffa02ce0a7c5f18c041c0d671d38"}
 {"path":"cerca-lavoro-svizzera/ricerca-stato-chur/","hash":"815d37407bf0e9028a18b41b72c642737b9982813f0d0fb8c314e8adc3991094"}
 {"path":"cerca-lavoro-svizzera/ricerca-stato-liestal/","hash":"7128be2e39a3e5f5adef5803c576694346ff5f72fa47a968d7ff0caca24c2acc"}
-{"path":"cerca-lavoro-svizzera/ricerca-stato-lugano/","hash":"8c037ffa093b7f823188d2c676efa6178ce08ac84668b6dfdd3e2a7730fea474"}
+{"path":"cerca-lavoro-svizzera/ricerca-stato-lugano/","hash":"9ac2c0026a179fc933eef6faef55221f3e7e9f7f889d419b4daffcf2235fe643"}
 {"path":"cerca-lavoro-svizzera/ricerca-stato-mendrisio/","hash":"1c8cf639d31ff5252cb145f7a7d94eaa525a6d1fdca86fb752fd44e58dcc080c"}
 {"path":"cerca-lavoro-svizzera/ricerca-stato-pfaffikon-zh/","hash":"9ad800263270f969b416a4e6c1e921496be54ad9114dbcd53e4e407bafabbd36"}
 {"path":"cerca-lavoro-svizzera/ricerca-stato-plan-les-ouates/","hash":"03ef01add6f77f8cde72eeaf8af16392d6abfdcaa57253971db8fd81e4f56d86"}
@@ -67462,7 +67462,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-automation-mft-specialista-svizzera/","hash":"25257ba19a20420e15e2edb20481b34c370c90187d968483b4697d39e77a39c1"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-autonomo-veicolo-test-operator-svizzera/","hash":"b58bdf042a1ae749e0d726f12f6e1ba140dd4343c6ec42b4219d67461628379b"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-autore-tecnico-produzione-peptidi-w-m-d-100-svizzera/","hash":"24d788720084d1eb5b0e890e4f6f097b60b62604791bfec9f7953c574ab55d0d"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-auxiliario-di-salute-crs-svizzera/","hash":"c7cc49a91e09501b82f24363266da6fc7aaebfe420015316170eea0c908091e8"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-auxiliario-di-salute-crs-svizzera/","hash":"772e7b8642bab69c6e25d1cc25e03ffa8310329bcbca10aac5987ec4afe4944b"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-avviso-legale-svizzera/","hash":"ade39142a772c7522245b1682885cd930385cff097488e9ecc9c4c6cf986d475"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-azienda-multiservizi-bellinzona-amb-svizzera/","hash":"947dacb568c1b7d42ef60ee6e6b7dc35a4ae83630473ba6406f79a7d3c185ddb"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-b-f-tirocinante-july-svizzera/","hash":"25f7452668eefd244d654d66f4e4c879bf08a72fbdf28461e9a0fa31cb01498e"}
@@ -68385,16 +68385,16 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapeutina-ergoterapeutico-90-svizzera/","hash":"9d988e8492be57f1ecef0dce54d2e76365fa7471a32a9ebd42e0e42a03cb8ad5"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-40-svizzera/","hash":"4568c988acc2876e450af0a203dda82f9fe5bc05ced95e0e3407b75ab4996d93"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-50-svizzera/","hash":"520265a94bc939fdc3b1d4ade59ce6a730f4dfac97fc7371acbbdc785e1dda0e"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-60-svizzera/","hash":"da6d68f0487c0e2a3b5ed57f5af663ab03046d090c0fb7825eaa9b070ba0f7ec"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-60-svizzera/","hash":"680ed7b78a2816e2d5e34c27c1ec9b735b98ab2afa19879ef94394d3189ac8c5"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-80-svizzera/","hash":"856ec5b21bc687efa35158c408a2e2affddd8a5ef646907190186ef2949b37d2"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-diplomata-o-100-svizzera/","hash":"174971c2719781503fc87b62fb5933e114645bc4030c9856c1c9d3dc5c15366f"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-diplomato-a-svizzera/","hash":"ec5c43240ad65d9d6575c97a3e9261d8316e461aff1bb07fbca29e127271dffd"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-60-svizzera/","hash":"56dac42695594bbee4c5937ced6d11f7cf782c9493dee8b7ca1ed4de0e509c5e"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-80-svizzera/","hash":"17efc4b39a682b53745e8a9713aabd1c8b002d8b0e1e75725612cef95de4f83d"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-u-m-d-svizzera/","hash":"a4f487ab9f14b8175c3164eb8e977b215a186aabe04f384d74f03668a5fb766b"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-diplomata-o-100-svizzera/","hash":"f8de18b13e93560005063794d824ee0c8acb249e1a6c845266fbf1f8bfd43a10"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-diplomato-a-svizzera/","hash":"4efad872032ca05e868486316d0ffd494a08ee9ab75b546d96a959661c5dc3a7"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-60-svizzera/","hash":"39fc42ee6730fd61bead28043239db716fa7a1e6cfa5f5dbac7d6ac712e9a750"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-80-svizzera/","hash":"8e0cc6afb4210e22795bfc5d47f78295a2f38ff9c6cff0679a592247c4666d2d"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-ergoterapista-u-m-d-svizzera/","hash":"8e3fd70b8dd191636f487ead7e62e1eafbb558034f64e77301984c24fefa6c68"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-in-80-svizzera/","hash":"0b4e84e12323c261647f4c3d99efb6f8325d12693ef75f1b7cab978c3fe67129"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-in-psichiatria-ambulatoria-svizzera/","hash":"34652c9efcab929fd84554a603933e00692c36be5961e6a1fb1929149843d65e"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-svizzera/","hash":"662f4aab0c84ddb359605967087ed19af181cb7232a3ec92cc8233bfbdeb13cb"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergoterapista-svizzera/","hash":"f1f6bf2f1f0549b4b6e97cfb90a674fbc65fc453bb93d82f4ea2c7b435bf4226"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergotherapeues-in-svizzera/","hash":"a365c2f1dfd23b0d15827c6e47b2a896aa23469c00bb7dc2eccef3c9b5083ace"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergotherapeut-in-handtherapy-80-svizzera/","hash":"17d066e9b7caa1350e15e97bf79e5ddbb7ddd3431b6b9a8327c7eb056beb107c"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-ergotherapeutin-ergotherapeut-p-m-d-svizzera/","hash":"f6a8a7a0b7314c0a10723f89d4967da261aec3f2a338312b0759c9f7b50fba1b"}
@@ -69505,7 +69505,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-ospedaliero-40-svizzera/","hash":"341b73c06c524cd0db741338dcd6dd0fc9cc8dcf040ee193a0cf57c4637afdb7"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-ospedaliero-cura-pallitiva-svizzera/","hash":"89359b2633f56ec2b37aafa3a94bc21b0dfd219bbd35acd9da1a32c151557a05"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-ospedaliero-svizzera/","hash":"1c65951759d9d73df1fe6263c75178623b37c0e194b0cf372fddb102e7eebb1e"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-pediatra-in-studio-svizzera/","hash":"4d91c6d7e4721c0f059f2b53b45a4323d861fb6ab9dacd7be001794adb09ca62"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-pediatra-in-studio-svizzera/","hash":"6a8489d32f50034f7fbe3336e13ead9a0491a60f3ecea311e0ea7414d5903b8e"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-primario-di-reparto-oberarzt-svizzera/","hash":"b2ea48a73f135eb991460a1365fb7324419cbe56f12ef8e4035a7b1b32524ed0"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-primario-emergenza-e-collegamento-80-svizzera/","hash":"0bf42e4ed30d17174bd90a41d5ca3dfcecbdd7ca77a7ee468c4d45c61b07a322"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-medico-primario-medico-primaria-psicosomatica-svizzera/","hash":"bef2c4899af98966b44823263d7598717ecf96a0f4f6afd18886f74806e5b3d1"}
@@ -70505,7 +70505,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-medizinische-codierung-svizzera/","hash":"8b68bd1547100c6c1b9b5c0ee172a49df3ac72e704668bab2983c319f2cb8e0d"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-negozio-100-svizzera/","hash":"675c50b971c9fdfa97ea7d73ab3dd3e24e4255793ceffc4df72257218fd63bb9"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-negozio-m-f-svizzera/","hash":"18f53df967c5bc4261be32d36159945d0ecfe98775c0385705518e20e95a3572"}
-{"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-neurologia-100-svizzera/","hash":"a09bbb90990bb6f1a34159252f07b7022a872c97d81c95c3d34e8801b1de15fc"}
+{"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-neurologia-100-svizzera/","hash":"ec68e06357f13c4d6105ad28ff395451c17c1d640590bcc0ded6756f0a8918f0"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-neurologia-svizzera/","hash":"525057b7ff5e25ddf8e2efd6784127fc0c170670767ebcdd3d2cda1aed92efce"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-operazioni-aziendali-svizzera/","hash":"61bc626bc8d0a1803668f19bcf4ae81a4b1f4baa2b7bf782d6e6faffcdac9235"}
 {"path":"cerca-lavoro-svizzera/ricerca-stipendio-responsabile-per-la-gestione-delle-prestazioni-svizzera/","hash":"a8dca824d556240f3d8d67fd6f78f2a7f554412829b696cce554d26c7e82a347"}
@@ -72267,7 +72267,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-studio-leuggern/","hash":"a72a6185b31cf1500c1a9dd90b56f995ad82d375e21ee616df68f77b7421cf8f"}
 {"path":"cerca-lavoro-svizzera/ricerca-studio-liestal/","hash":"05100c3e72087ac2fbe0a6099a584e8bea79cd3d377e29805e5fdd6b24f1edff"}
 {"path":"cerca-lavoro-svizzera/ricerca-studio-locarno/","hash":"926e78d15d0f7cd4628e1be02b7cc1cbca12d09a1c19b4c4f534c0f91405a89c"}
-{"path":"cerca-lavoro-svizzera/ricerca-studio-lugano/","hash":"b84623be9e7c20397ff4bc2b4e84c14a61c84a3cc0709f5bd2c134f8fb1e15ef"}
+{"path":"cerca-lavoro-svizzera/ricerca-studio-lugano/","hash":"30b0f191cf9ef2ea3c8a9dda5d4b2127e45684616a5ebf0a1c0bd1a760db97ed"}
 {"path":"cerca-lavoro-svizzera/ricerca-studio-luzern/","hash":"94c5a86f0ab23d7bb5e348021e2162d6c429042ef516f3493db4a22369f206f9"}
 {"path":"cerca-lavoro-svizzera/ricerca-studio-mendrisio/","hash":"a2ff515e8689af88cb3a277cc50fc1c593d944b698095b73b0ff9fd43015ca27"}
 {"path":"cerca-lavoro-svizzera/ricerca-studio-montagnola/","hash":"e97399c7ff89ec0d095f5e07edcf176693f8937bb004f63f9489166e54f9a215"}
@@ -73166,7 +73166,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-swc-industrial-designer-formazione-geneve/","hash":"e7911100991780459d6d9e3e53327dc2a4cecd750ce62407fc98fd78bdc7a262"}
 {"path":"cerca-lavoro-svizzera/ricerca-swc-industrial-designer-formazione-rolex/","hash":"b0333050ef9edc1f13ca6d24f3017a82aa789d2864f1ddd890e13c388342fda3"}
 {"path":"cerca-lavoro-svizzera/ricerca-swc-industrial-designer-formazione/","hash":"3f2f840f5d7c99568ef1b704426f49b62aa18e81d259c1c7f18ffc5424d7004e"}
-{"path":"cerca-lavoro-svizzera/ricerca-swift-chiasso/","hash":"42727dbec485aa798a3e6825f1ad422f18cd6bef92102d1205eb7228f0a5290a"}
+{"path":"cerca-lavoro-svizzera/ricerca-swift-chiasso/","hash":"256caaad3102f223e9a00220d4dbb11999ab393b07c3b1c247df91658dbee834"}
 {"path":"cerca-lavoro-svizzera/ricerca-swift-geneva/","hash":"a7a6e5aa8a86c327ab97960ff1ac46cf43916e8f9c70559169b6a82e28a91665"}
 {"path":"cerca-lavoro-svizzera/ricerca-swiss-chur/","hash":"1cf2726a008547b6433696f892c31033fb52ae9e19e2ad2eb935a3df07413c3a"}
 {"path":"cerca-lavoro-svizzera/ricerca-swiss-learning-development-tirocinante-bellevue/","hash":"92a9a17aefa4ddf7a326e81d2be4f1c6a67e6c9f4b85f957fb20656b1a949f3e"}
@@ -73282,7 +73282,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-tahiri-baden/","hash":"3955d8260703f055765cf49bb94dd1ab42443695abe014fc87b8c5afced11480"}
 {"path":"cerca-lavoro-svizzera/ricerca-take-chur/","hash":"a3c83321772923cb6a297438aa31b215f46b285e9aa582f13aef91253d82fd0f"}
 {"path":"cerca-lavoro-svizzera/ricerca-taking-geneve/","hash":"2e67cbeaca4ad914e601a007904a71d8c66f94c2c785f0e1e72b031fa3a0b876"}
-{"path":"cerca-lavoro-svizzera/ricerca-talend-chiasso/","hash":"bba0cb30c6602dbbe8875057603c9ee23ebe68f49b1f6354525de272a5f09242"}
+{"path":"cerca-lavoro-svizzera/ricerca-talend-chiasso/","hash":"6bdd7f7fb8ab7e18dd37419643b78a8a30796d5732399b3a7e4e07725e1517a2"}
 {"path":"cerca-lavoro-svizzera/ricerca-talend-geneve/","hash":"4006cb3527da5f96a6a08ff755db2f5a3774915d922a425ed6cb4acc011e7f5b"}
 {"path":"cerca-lavoro-svizzera/ricerca-talent-acquisition-partner-contratto-di-1-anno-f-m-d/","hash":"96d9f3757d791f6f329afbfda84867e19a3f1227475cc1806351f989202ba74c"}
 {"path":"cerca-lavoro-svizzera/ricerca-talent-acquisition-tirocinante-bellevue/","hash":"881197ec0cfbdc79a497cfbe6536e090ebd98ee3d4e28d2c74abd5cef6c4c92e"}
@@ -76116,7 +76116,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-trasferimento-emmen-luzern/","hash":"8dd650f34cf314d4ffcb1930d9533a177e3f922b659e70be45fa415f584c8a90"}
 {"path":"cerca-lavoro-svizzera/ricerca-trasferimento-geneva/","hash":"ed92541e68b45ae45828ebe611a3c7b796227463a4f439ffeeee1cb9d37fdd1b"}
 {"path":"cerca-lavoro-svizzera/ricerca-trasferimento-lenzburg-switzerland/","hash":"2d4d0dc7ccd0489ada6f530e686206e29facf006eff352bae5a9a94e0ab76774"}
-{"path":"cerca-lavoro-svizzera/ricerca-trasferimento-lugano/","hash":"8795219f9414c4d54b7e92616742c0079e2f589d028ef744b0d4eee9d29588dd"}
+{"path":"cerca-lavoro-svizzera/ricerca-trasferimento-lugano/","hash":"6714a4d0689ae39ee925d17c8c25fc27014867175da0f16b89410e3f98b1147e"}
 {"path":"cerca-lavoro-svizzera/ricerca-trasferimento-solothurn/","hash":"43e84fd84529ac14427d21e0cb01ddf2f739440bc88c8e061bc855ef1a6750c5"}
 {"path":"cerca-lavoro-svizzera/ricerca-trasferimento-zurich/","hash":"a3e1957d2f3011dcf4c3bace99faa0e9f47a11fab0d5364792cd24cea183788d"}
 {"path":"cerca-lavoro-svizzera/ricerca-trasformare-geneva/","hash":"3cfe38d47fa405175ef9268add6d159458ff7f2b184b334b365aec7662e3330f"}
@@ -77042,7 +77042,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-delemont/","hash":"5536e6c9f5b1e7cc9d9213fc40def09cd6a802f975d25cadd5b9c184829c6cb3"}
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-liestal/","hash":"1374bc9ca97e8e78f2aed5b70f17ea8691fe9db2081a2587aca4a52f41f93c5a"}
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-locarno/","hash":"59a23b9fb16293997bc3599744134626db138d1ee0f899385432340d500c4d69"}
-{"path":"cerca-lavoro-svizzera/ricerca-urologia-lugano/","hash":"a46d5e9828fe4a9185488d494549664687bea6bd899070e8d829074bfc0a0ab2"}
+{"path":"cerca-lavoro-svizzera/ricerca-urologia-lugano/","hash":"0001a0b0bb163f2a2272d30da8f1df9e23d8f2bdaae5f3496e73fa0ae83b7745"}
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-solothurn/","hash":"48ad038c2c6f60cc6ef58f321c0156cb6bcd3091d6cd9cfd61c837aa372db968"}
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-st-gallen/","hash":"a4228e083a935eb979053d0e0d9b55716218d2399ae53a344408d9ca30b8c741"}
 {"path":"cerca-lavoro-svizzera/ricerca-urologia-uster/","hash":"eb864edf6a25d28ec15d8219ae0f9e635a07db1e636c28eae9aa291392ddf63b"}
@@ -77135,7 +77135,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-bellinzona/","hash":"e14040a1771e8fa8b83e58dc03cf293e8035ad50f10c50d1ffd5e1d7ed4d56f7"}
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-chur/","hash":"a6019d5c597c3179bcd15135030785dd4486613aab1fd2a9ecde78a00dea6ff9"}
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-geneve/","hash":"8f68e9a1c1eb55e316078ce24bebc580cca0492269e7af689ac1fb51e755423a"}
-{"path":"cerca-lavoro-svizzera/ricerca-utilizzo-lugano/","hash":"51a45f39aee9ec25bebc67925d038546eec7031b2a99a5e446f7d750691d5520"}
+{"path":"cerca-lavoro-svizzera/ricerca-utilizzo-lugano/","hash":"22d20e011b2b61b7d33548757a84d8e516105b700e68ed43e066dd2e8a706acf"}
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-mendrisio/","hash":"cae180dda5ffb9a6ec33b9785e94719a0decda46a0eb873f7f260abb7c526625"}
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-uster/","hash":"0d0e282cdaed92c98000de77ac74bd1ba99039c0810951429e1778fc30a778d3"}
 {"path":"cerca-lavoro-svizzera/ricerca-utilizzo-zurich/","hash":"1db25271f9ce753c88e36460bb805eb283ca278adae257563795b0ce506d1481"}
@@ -77398,7 +77398,7 @@
 {"path":"cerca-lavoro-svizzera/ricerca-valutare-aarau/","hash":"17940248a41d8efd551427240c5313cdc7fee436dcd157323cc33ac0bc6d42a5"}
 {"path":"cerca-lavoro-svizzera/ricerca-valutare-bern/","hash":"24999bc70425887a12d1019de8f45bfa801aafe4c04cf9b7b4a210fe9f8b36cf"}
 {"path":"cerca-lavoro-svizzera/ricerca-valutare-rivera/","hash":"bb238e6eba33f3cd5a32deb7dbe36a254d739c10bb29185eb0f2b14324f8e159"}
-{"path":"cerca-lavoro-svizzera/ricerca-valutare-ticino/","hash":"1a63211488a9b06b04bd6926ee54aa7793b7f1a2196c115913f4b63dc5392c5f"}
+{"path":"cerca-lavoro-svizzera/ricerca-valutare-ticino/","hash":"97586de006814b3ad89486f04abbd486e1bfc4ed1a56e0f9073caecc744eabdd"}
 {"path":"cerca-lavoro-svizzera/ricerca-valutazione-aarau/","hash":"cae671bf9ce7f09b9ffb8f28f8c7ec77cfc4450d68da2c71ab4540a8a44a2c9c"}
 {"path":"cerca-lavoro-svizzera/ricerca-valutazione-amministrativa-delle-prestazioni-dei-dipendenti-basel/","hash":"dec2e86ee504964c5971381819b59e1594fa11d1d10d947c70873eb3f5b38b26"}
 {"path":"cerca-lavoro-svizzera/ricerca-valutazione-amministrativa-delle-prestazioni-dei-dipendenti/","hash":"49ac518bb06edf19a8e085c7bcc91e8b06dc713538b496c49578b04fa7572d52"}
